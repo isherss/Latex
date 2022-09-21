@@ -1,0 +1,133 @@
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+\usepackage{paracol}
+
+
+\definecolor{SlateGrey}{HTML}{546e7a}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{LightGrey}
+\colorlet{heading}{black}
+\colorlet{headingrule}{SlateGrey}
+\colorlet{subheading}{SlateGrey}
+\colorlet{accent}{black}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+\renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+\renewcommand{\personalinfofont}{\footnotesize}
+\renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+\renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+
+\renewcommand{\itemmarker}{{\small\textbullet}}
+
+
+\begin{document}
+\name{Natalie Tran}
+\tagline{Civil Engineering Student}
+
+\personalinfo{%
+  \email{ish@ishpage.com}
+  \location{Chicago, IL}
+  \homepage{ishpage.com}
+  \github{isherss}
+}
+
+\makecvheader
+
+\columnratio{0.6}
+
+\begin{paracol}{2}
+\cvsection{Education}
+
+\cvevent{Wilbur Wright College}{Associates in Engineering Science | Civil Engineering}{August 2021 - May 2023}{}
+\textbf{Relevant Coursework:} Statics, Intro to C++, Calculus I/II/III, Physics I/II\\
+\begin{itemize}
+	\item Rigorous coursework as per UIUC Engineering Pathways program
+	\item Planned transfer to UIUC Fall 2023 and Bachelor's in Civil Engineering completion May 2025
+\end{itemize}
+
+\cvsection{Work Experience}
+
+\cvevent{Oh, Keycaps!}{Vendor}{August 2022 - Present}{}
+	\begin{itemize}
+		\item Independent hybrid working from home and in-office
+		\item Created firmware and handwired keyboards
+	\end{itemize}
+	\divider
+\cvevent{Wilbur Wright College}{Tutoring}{January 2022 - May 2022}{}
+	\begin{itemize}
+		\item Guided students to success in difficult classes
+		\item Developed stronger skills in Math and Physics
+		\item Able to word explanations for students of all skill levels to understand
+	\end{itemize}
+	\divider
+\cvevent{Gorilla Sushi}{Waiter/Chef/Hostess/Packer}{June 2021 - August 2022}{}
+	\begin{itemize}
+		\item Challenging fast-paced and detail-oriented environment
+		\item Constant communication needed between co-workers 
+		\item Managed the dining area and delivery drivers
+	\end{itemize}
+\cvsection{Projects}
+\cvevent{Keyboard Design}{}{}{}
+	Created firmware written in C using QMK for multiple custom keyboards. Used Solidworks to graphically design and 3D print keyboard cases, along with one aluminum case custom CNC'd. Designed keyboard PCBs in KiCad, and got them manufactured. Handwired many keyboards without a PCB.\\
+\divider
+\cvevent{Cassette Deck Restoration}{}{}{}
+	Diagnosed mechanical and electronic probelms and replaced belts, resistors, capacitors, diodes, and transistors for multiple cassette decks (TEAC V-700, Sony TC-71, Harman/Kardon TD392, JVC A1)\\
+\switchcolumn
+\cvsection{Leadership}
+
+\cvevent{Society of Women Engineers}{President}{May 2022 - Present}{}
+\begin{itemize}
+	\item Overseer of executive board and all members
+	\item Grew membership from 10 to 70+
+	\item Maintainer of documentation and\\ resources distributed
+	\item Planner of events spreading engineering interest
+\end{itemize}
+
+\divider
+\cvevent{Society of Women Engineers}{Education Director}{January 2022 - May 2022}{}
+	\begin{itemize}
+		\item Organized and tutored in weekly physics group tutor sessions
+		\item Planned and refereed a robotics competition
+		
+	\end{itemize}
+\divider
+\cvevent{American Chemical Society}{Public Relations}{January 2022 - May 2022}{}
+	\begin{itemize}
+		\item Coordinated with the Student Government Association to allocate resources to ACS
+		\item Communicated with different organizations to plan coordinated events
+	\end{itemize}
+\divider
+\cvevent{First Robotics Competition}{Team Mentor (4645)}{September 2021 - May 2022}{}
+	\begin{itemize}
+		\item Overseer of over 100 highschool students
+		\item Guided team leaders on organizing and planning a timeline to build a robot
+		\item Technically advised mechanical designs
+	\end{itemize}
+
+
+
+
+\cvsection{Technical Skills}
+
+\cvtag{C++}
+\cvtag{HTML/CSS/JS}
+\cvtag{Java}\\
+\cvtag{Latex}
+\cvtag{Swift}
+\cvtag{Solidworks}
+\cvtag{KiCad}
+\cvtag{Powerpoint}
+\cvtag{Excel}
+\cvtag{Soldering}
+
+
+\end{paracol}
+
+
+\end{document}
