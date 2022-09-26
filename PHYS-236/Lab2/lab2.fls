@@ -1,4 +1,4 @@
-PWD /home/ish/GitHub/Latex/PHYS-236/Lab2
+PWD /home/zach/Nextcloud/01 Documents/01 School/00 Classes/2022 Fall/Physics 236/Labs/Natalie Latex/PHYS-236/Lab2
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT lab2.tex
@@ -1097,6 +1097,11 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./images//procedure/part1.png
+INPUT ./images//procedure/part1.png
+INPUT ./images//procedure/part1.png
+INPUT ./images//procedure/part1.png
 INPUT lab2.aux
 INPUT ./lab2.out
 INPUT ./lab2.out

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1663867827 "lab2.tex" "lab2.pdf" "lab2" 1663867828
+["pdflatex"] 1664232907 "lab2.tex" "lab2.pdf" "lab2" 1664232908
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1650183167 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1650183167 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -209,11 +209,12 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1650183167 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1663005929 4278762 af3ac1370db81a450c1118eabf1fe718 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1663005906 2927662 d12016735cce2e2535e24818eca1829b ""
-  "lab2.aux" 1663867827 1581 78814578bcb00cfecf3eb4da57da78eb "pdflatex"
-  "lab2.out" 1663867827 763 9d5badcbee5542aa1b37bcfa4973602d "pdflatex"
-  "lab2.tex" 1663867825 3950 703fc759637fe56289a2dbcd43342bec ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1651284286 4278762 af3ac1370db81a450c1118eabf1fe718 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1651284275 2927658 1f09d7589206139874f5344b28dd01d6 ""
+  "images//procedure/part1.png" 1664231769 248006 6a36e1390c58c612d8438702a46fc567 ""
+  "lab2.aux" 1664232908 2158 7ce0fd11863c72b4c86252544a7d96c1 "pdflatex"
+  "lab2.out" 1664232908 1366 396623e559a5e1b4d68f2393ca1847ec "pdflatex"
+  "lab2.tex" 1664232905 4815 301630c79062cd3eef236368b632440a ""
   (generated)
   "lab2.aux"
   "lab2.log"

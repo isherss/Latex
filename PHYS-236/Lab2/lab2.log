@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.9.12)  22 SEP 2022 12:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  26 SEP 2022 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -742,12 +742,18 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (22.65083pt too wide) in paragraph at lines 76--78
+<./images//procedure/part1.png, id=58, 362.85562pt x 273.27094pt>
+File: ./images//procedure/part1.png Graphic file (type png)
+<use ./images//procedure/part1.png>
+Package pdftex.def Info: ./images//procedure/part1.png  used on input line 53.
+(pdftex.def)             Requested size: 290.28488pt x 218.61702pt.
+
+Overfull \hbox (22.65083pt too wide) in paragraph at lines 101--103
 [][] 
  []
 
 
-Overfull \hbox (34.70659pt too wide) in paragraph at lines 103--105
+Overfull \hbox (34.70659pt too wide) in paragraph at lines 128--130
 [][] 
  []
 
@@ -755,24 +761,24 @@ Overfull \hbox (34.70659pt too wide) in paragraph at lines 103--105
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 \end{document}
-                     [1] (./lab2.aux)
+l.131 	\end{center}
+                    [1 <./images//procedure/part1.png>] [2] (./lab2.aux)
 Package rerunfilecheck Info: File `lab2.out' has not changed.
-(rerunfilecheck)             Checksum: 9D5BADCBEE5542AA1B37BCFA4973602D;763.
+(rerunfilecheck)             Checksum: 396623E559A5E1B4D68F2393CA1847EC;1366.
  ) 
 Here is how much of TeX's memory you used:
- 36880 strings out of 478238
- 883444 string characters out of 5850456
- 1271209 words of memory out of 5000000
- 54572 multiletter control sequences out of 15000+600000
- 474334 words of font info for 46 fonts, out of 8000000 for 9000
+ 36911 strings out of 478238
+ 884071 string characters out of 5850456
+ 1269209 words of memory out of 5000000
+ 54593 multiletter control sequences out of 15000+600000
+ 474641 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,11n,91p,759b,2114s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on lab2.pdf (2 pages, 115380 bytes).
+Output written on lab2.pdf (3 pages, 353728 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
