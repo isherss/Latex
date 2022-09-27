@@ -178,7 +178,42 @@ Date performed: 09/21/2022}
 	\end{minipage}
 	\end{center}
 	\section{Results}
+    Using the following equations, we were able to predict many of the results we found during this lab:
+    $$\Delta V = -\int_a^b \vec{E}\cdot d\vec{s} $$
+    $$V= k_e \int_a^b \frac{dq}{r} $$
+
+		\begin{minipage}[t]{0.4\textwidth}
+            \centering
+		\begin{tikzpicture}
+			\begin{axis}[grid=both,
+				axis lines=middle,
+				xmin=0,xmax=8,
+				ymin=0,ymax=0.8,
+				xtick={0,2,4,6,8},
+				ytick={0,0.2,0.4,0.6,0.8},
+				minor y tick num=1,
+				minor x tick num=1,
+				xlabel={Distance}, ylabel={1/Voltage}]
+
+				\addplot[soldot] coordinates{(0,0.103)(1,0.196)(2,0.2564)(3,0.32258)(4,0.3846)(5,0.4545)(6,0.55555)(7,0.714)};
+				\draw[thick] (0,0.103)--(1,0.196); 
+				\draw[thick] (1,0.196)--(2,0.2564); 
+				\draw[thick] (2,0.2564)--(3,0.32258); 
+				\draw[thick] (3,0.32258)--(4,0.3846); 
+				\draw[thick] (4,0.3846)--(5,0.4545); 
+				\draw[thick] (5,0.4545)--(6,0.55555); 
+				\draw[thick] (6,0.55555)--(7,0.714); 
+				\addplot[domain=0:8,dashed,gray] {0.08*x+0.09};
+				\node at (2,0.4) {$y = 0.08x+0.09$};
+			\end{axis}
+		\end{tikzpicture}
+		[Fig 1.2] The linearization of Fig 1.1.
+	\end{minipage}
+
 	\section{Questions}
 	\section{Conclusion}
+    Overall, this lab was successful in empirically verifying the concepts learned throughout the last chapter of this class, and further familiarizing us with the electronics lab equipment. There were unfortunately a few cases where our group did not take as many data points as were originally instructed, but overall our data appears to have a relatively low error rate. Probably one of the main sources of error in this lab would be the setup of the conductive paint on the plates. The paint was not very consistently applied from point to point, probably causing a bit of variation in the electric field throughout the plate. 
+
+
 	
 \end{document}
