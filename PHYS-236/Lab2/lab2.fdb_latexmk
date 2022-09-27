@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664208849 "lab2.tex" "lab2.pdf" "lab2" 1664208849
+["pdflatex"] 1664247209 "lab2.tex" "lab2.pdf" "lab2" 1664247210
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1650183167 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1650183167 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -215,9 +215,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1663005929 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1663005906 2927662 d12016735cce2e2535e24818eca1829b ""
   "images//part2.jpg" 1664207125 307918 3f7c7503765b0d48af3387fd57bd8731 ""
-  "lab2.aux" 1664208849 2146 482e25c9fdb3ea3604d67e5371f0f246 "pdflatex"
-  "lab2.out" 1664208849 1217 9ea2b05bdd35a242fbde1596e945592a "pdflatex"
-  "lab2.tex" 1664208847 6878 ae63874f9ee0092386a7ed1b896693f9 ""
+  "images//part3.jpg" 1664207106 430526 5a1f546f955dc2b36fa8d0d71bd730c9 ""
+  "images//part4.jpg" 1664207075 272610 d93b5e39d9216595249e5bf817078cf6 ""
+  "lab2.aux" 1664247210 2485 0f3262edd976a1dd147668b9a7af0e49 "pdflatex"
+  "lab2.out" 1664247210 1490 f808750eb23f616cce8c0d536ceeeec7 "pdflatex"
+  "lab2.tex" 1664247208 9177 a446e1bd36ff47fc14482ca71842a02b ""
   (generated)
   "lab2.aux"
   "lab2.log"

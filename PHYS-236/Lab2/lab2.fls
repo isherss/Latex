@@ -1114,6 +1114,14 @@ INPUT ./images//part2.jpg
 INPUT ./images//part2.jpg
 INPUT ./images//part2.jpg
 INPUT ./images//part2.jpg
+INPUT ./images//part3.jpg
+INPUT ./images//part3.jpg
+INPUT ./images//part3.jpg
+INPUT ./images//part3.jpg
+INPUT ./images//part4.jpg
+INPUT ./images//part4.jpg
+INPUT ./images//part4.jpg
+INPUT ./images//part4.jpg
 INPUT lab2.aux
 INPUT ./lab2.out
 INPUT ./lab2.out

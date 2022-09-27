@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.9.12)  26 SEP 2022 11:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.9.12)  26 SEP 2022 21:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -779,38 +779,59 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.161 	\end{center}
                     [1]
-<./images//part2.jpg, id=78, 2675.9975pt x 2069.7325pt>
+<./images//part2.jpg, id=90, 2675.9975pt x 2069.7325pt>
 File: ./images//part2.jpg Graphic file (type jpg)
 <use ./images//part2.jpg>
-Package pdftex.def Info: ./images//part2.jpg  used on input line 165.
+Package pdftex.def Info: ./images//part2.jpg  used on input line 169.
 (pdftex.def)             Requested size: 234.8775pt x 181.65698pt.
 
-Overfull \hbox (0.79999pt too wide) in paragraph at lines 165--166
-[][]  
+Overfull \hbox (0.79999pt too wide) in paragraph at lines 168--170
+ [] 
  []
 
 
-Overfull \hbox (5.0pt too wide) in paragraph at lines 164--167
+Overfull \hbox (5.0pt too wide) in paragraph at lines 166--171
 []  
  []
 
-[2 <./images//part2.jpg>] [3] (./lab2.aux)
+
+Overfull \hbox (53.59616pt too wide) in paragraph at lines 178--185
+[]  
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 172--186
+$[]$  
+ []
+
+[2 <./images//part2.jpg>]
+<./images//part3.jpg, id=97, 2824.5525pt x 2182.1525pt>
+File: ./images//part3.jpg Graphic file (type jpg)
+<use ./images//part3.jpg>
+Package pdftex.def Info: ./images//part3.jpg  used on input line 193.
+(pdftex.def)             Requested size: 234.8775pt x 181.43494pt.
+<./images//part4.jpg, id=98, 2455.1725pt x 1895.08pt>
+File: ./images//part4.jpg Graphic file (type jpg)
+<use ./images//part4.jpg>
+Package pdftex.def Info: ./images//part4.jpg  used on input line 201.
+(pdftex.def)             Requested size: 234.8775pt x 181.27788pt.
+ [3 <./images//part3.jpg> <./images//part4.jpg>] [4] [5] [6] (./lab2.aux)
 Package rerunfilecheck Info: File `lab2.out' has not changed.
-(rerunfilecheck)             Checksum: 9EA2B05BDD35A242FBDE1596E945592A;1217.
+(rerunfilecheck)             Checksum: F808750EB23F616CCE8C0D536CEEEEC7;1490.
  ) 
 Here is how much of TeX's memory you used:
- 37618 strings out of 478238
- 895742 string characters out of 5850456
+ 37656 strings out of 478238
+ 896391 string characters out of 5850456
  1276209 words of memory out of 5000000
- 55281 multiletter control sequences out of 15000+600000
+ 55310 multiletter control sequences out of 15000+600000
  474949 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,11n,91p,759b,2122s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on lab2.pdf (4 pages, 444535 bytes).
+Output written on lab2.pdf (7 pages, 1154716 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 190 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 
