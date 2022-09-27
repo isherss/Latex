@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664242124 "lab2.tex" "lab2.pdf" "lab2" 1664242125
+["pdflatex"] 1664243361 "lab2.tex" "lab2.pdf" "lab2" 1664243362
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1650183167 3584 402da0b29eafbad07963b1224b222f18 ""
@@ -227,10 +227,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1651284286 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1651284275 2927658 1f09d7589206139874f5344b28dd01d6 ""
+  "images//procedure/capacitor.png" 1664242917 34828 b7707b6e78e6f58d7fe70ad86d1e7d5e ""
   "images//procedure/part1.png" 1664231769 248006 6a36e1390c58c612d8438702a46fc567 ""
-  "lab2.aux" 1664242125 2234 5f9b5fddb945e9f13d6bddd211fedff1 "pdflatex"
-  "lab2.out" 1664242125 1366 396623e559a5e1b4d68f2393ca1847ec "pdflatex"
-  "lab2.tex" 1664242123 5695 7a96c2cf23bab9a2f3defbb95f1a7c4a ""
+  "lab2.aux" 1664243362 2514 fceeb95d07868078f58d7f9eacd160a3 "pdflatex"
+  "lab2.out" 1664243362 1546 002d1280ed4c6e0bbb5562172c39ffd4 "pdflatex"
+  "lab2.tex" 1664243359 6358 f9d10173e1641bab8df820d3d9192fb3 ""
   (generated)
   "lab2.aux"
   "lab2.log"
