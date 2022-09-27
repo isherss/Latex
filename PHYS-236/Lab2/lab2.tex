@@ -1,6 +1,9 @@
 \documentclass[titlepage]{article}
 
 \usepackage[margin=1in]{geometry}
+% some more shit for the title
+\usepackage[T1]{fontenc}
+\usepackage{babel}
 
 % Tables and stopping them from displaying in a different section
 \usepackage{booktabs}
@@ -18,6 +21,8 @@
 
 % for inserting hyperlinks in the document, use \url{url} or \href{url}{text}
 \usepackage{hyperref}
+\usepackage{calligra}
+\usepackage[T1]{fontenc}
 \usepackage{siunitx}
 \usepackage{caption}
 \usepackage{multirow}
@@ -30,19 +35,87 @@
 \usepackage{paracol}
 
 \begin{document}
-
 \title{\textbf{Lab 2: Electric Field and Potential}}
-\author{Report by: Zachary Pouska and  Natalie Tran \\ \\ 
-PHYS 236 | Fall 2022}
-\date{Date performed: 09/21/2022}
+\author{
+    Zachary Pouska\\
+    \texttt{001103193}\\
+    \and
+    Natalie Tran \\ 
+    \texttt{000698629}\\ \\
+} 
+
+\date{PHYS 236 | Fall 2022\\
+Date performed: 09/21/2022}
+
 
 	\maketitle
+
+
+
 	\section{Purpose}
 	To study the relationship between electric field and the electric potential difference associated with it.
 	\section{Theory}	
 	The relationship between the electric field and electric potential difference will follow the equation \(\Delta V = -\int_{a}^{b} \vec{E} \cdot ds\), which simplified is \(\Delta V = \frac{k_{e}q}{r}\). This means electric potential will have a opposite yet linear relationship with the electric field, while having an inverse relationship with distance.
 	\section{Experiment Analysis}
+    
+    Using the following equations, we were able to predict many of the results we found during this lab:
+    $$\Delta V = -\int_a^b \vec{E}\cdot d\vec{s} $$
+    $$V= k_e \int_a^b \frac{dq}{r} $$
+
+
+
+
 	\section{Procedure}
+    The experiment is begun by "drawing" the patterns used for the experiments on the conductive surface using conductive ink. This step was performed by our instructor beforehand. 
+    \subsection{Perimeter of Conductive Ink and Point Charge}
+    The configuration of electrodes below was used for this first part of the experiment. The small circular electrode (white dot) at the center was held at 10 Volts. The green dots indicate where the voltages were measured. 7 points were taking from each side of the positive electrode.
+
+    \FloatBarrier
+    \begin{figure}[hbt!]
+        \centering
+        \caption{Perimeter of conductive ink and point charge setup}
+        \includegraphics[scale=0.8]{procedure/part1}
+    \end{figure} 
+    \FloatBarrier
+
+
+
+    
+
+    \subsection{Two Point Charges}
+    The goal of this experiment was to determine the shape of the equipotential lines resulting from two point charges on a conductive surface. In order to find these equipotential lines, we probed the conductive plate with a digital multimeter, and recorded the results on a piece of graph paper. We measured only four equipotential lines between the two point charges, ranging between 6V and 1.5V. In order to determine the electric field, we use an equation to estimate the magnitude from a potential difference between two points $a$ and $b$.
+    $$E=\frac{-V_b-V_a}{\Delta x}$$
+
+
+
+    \subsection{Two Plate Capacitor}
+    This experiment was similar in nature to the previous one, but just with a different setup. We connected our power supply to the two electrodes of the "capacitor," and begun measuring our equipotential lines. We unfortunately only measured two whole lines, as the setup we received for the lab had the two electrodes very close together. The following is an example of a setup for this lab: 
+
+    \FloatBarrier
+    \begin{figure}[hbt!]
+        \centering
+        \caption{Two Plate Capacitor Setup}
+        \includegraphics[scale=0.4]{procedure/capacitor}
+    \end{figure} 
+    \FloatBarrier
+
+
+    \subsection{One Point and One Line}
+    Again, this lab follows a similar set of steps to the previous two. We being by connecting the point charge and line to the power supply leads, and beginning our measurement of the electric potentials. The following figure is another example of the setup for this experiment:
+
+    \FloatBarrier
+    \begin{figure}[hbt!]
+        \centering
+        \caption{Point and Line Example Setup}
+        \includegraphics[scale=0.4]{procedure/pointline}
+    \end{figure} 
+    \FloatBarrier
+
+
+
+
+
+
 	\section{Data and Graphs}
 	\subsection{Part 1}
 	\begin{center}
@@ -201,6 +274,38 @@ PHYS 236 | Fall 2022}
 			\includegraphics[width=0.5\linewidth, frame]{part4}
 		\end{center}
 	\section{Results}
+    Using the following equations, we were able to predict many of the results we found during this lab:
+    $$\Delta V = -\int_a^b \vec{E}\cdot d\vec{s} $$
+    $$V= k_e \int_a^b \frac{dq}{r} $$
+
+		\begin{minipage}[t]{0.4\textwidth}
+            \centering
+		\begin{tikzpicture}
+			\begin{axis}[grid=both,
+				axis lines=middle,
+				xmin=0,xmax=8,
+				ymin=0,ymax=0.8,
+				xtick={0,2,4,6,8},
+				ytick={0,0.2,0.4,0.6,0.8},
+				minor y tick num=1,
+				minor x tick num=1,
+				xlabel={Distance}, ylabel={1/Voltage}]
+
+				\addplot[soldot] coordinates{(0,0.103)(1,0.196)(2,0.2564)(3,0.32258)(4,0.3846)(5,0.4545)(6,0.55555)(7,0.714)};
+				\draw[thick] (0,0.103)--(1,0.196); 
+				\draw[thick] (1,0.196)--(2,0.2564); 
+				\draw[thick] (2,0.2564)--(3,0.32258); 
+				\draw[thick] (3,0.32258)--(4,0.3846); 
+				\draw[thick] (4,0.3846)--(5,0.4545); 
+				\draw[thick] (5,0.4545)--(6,0.55555); 
+				\draw[thick] (6,0.55555)--(7,0.714); 
+				\addplot[domain=0:8,dashed,gray] {0.08*x+0.09};
+				\node at (2,0.4) {$y = 0.08x+0.09$};
+			\end{axis}
+		\end{tikzpicture}
+		[Fig 1.2] The linearization of Fig 1.1.
+	\end{minipage}
+
 	\section{Questions}
 	\subsection{Part 1}
 		\begin{enumerate}
@@ -265,6 +370,9 @@ PHYS 236 | Fall 2022}
 			See Fig 5.4.
 		\end{enumerate}
 	\section{Conclusion}
+    Overall, this lab was successful in empirically verifying the concepts learned throughout the last chapter of this class, and further familiarizing us with the electronics lab equipment. There were unfortunately a few cases where our group did not take as many data points as were originally instructed, but overall our data appears to have a relatively low error rate. Probably one of the main sources of error in this lab would be the setup of the conductive paint on the plates. The paint was not very consistently applied from point to point, probably causing a bit of variation in the electric field throughout the plate. 
+
+
 	
 	
 \end{document}
