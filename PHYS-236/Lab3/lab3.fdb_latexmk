@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664384749 "lab3.tex" "lab3.pdf" "lab3" 1664384750
+["pdflatex"] 1664385461 "lab3.tex" "lab3.pdf" "lab3" 1664385463
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -257,10 +257,10 @@
   "images/procedure/part2.png" 1664383170 9153 f2b56923d3e818594c6e645ef0ee9c5d ""
   "images/procedure/part3.png" 1664383170 13710 b2d2f34143ddd2226753f20b29b8ff08 ""
   "images/procedure/part4.png" 1664383170 8411 e5020db1b0dccfc7106ff3133827b02e ""
-  "images/procedure/part5.png" 1664383170 21131 fb8d3ec6477d42a78784da885b38b222 ""
-  "lab3.aux" 1664384750 3395 db35a2029851074230007bd72f1691be "pdflatex"
-  "lab3.out" 1664384750 3245 5f54e4e5c41a7cf48812051e61b726d6 "pdflatex"
-  "lab3.tex" 1664384747 6520 ce8e36d44b09c77c218c54572832395a ""
+  "images/procedure/part5.png" 1664385444 13106 5add311c2fd95c8647b9c7883221a72e ""
+  "lab3.aux" 1664385462 3395 db35a2029851074230007bd72f1691be "pdflatex"
+  "lab3.out" 1664385462 3245 5f54e4e5c41a7cf48812051e61b726d6 "pdflatex"
+  "lab3.tex" 1664384858 6520 ce8e36d44b09c77c218c54572832395a ""
   (generated)
   "lab3.aux"
   "lab3.log"
