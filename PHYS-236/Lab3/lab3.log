@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,28 +811,28 @@ l.95         \FloatBarrier
 <images/procedure/part4.png, id=103, 322.20375pt x 283.0575pt>
 File: images/procedure/part4.png Graphic file (type png)
 <use images/procedure/part4.png>
-Package pdftex.def Info: images/procedure/part4.png  used on input line 100.
+Package pdftex.def Info: images/procedure/part4.png  used on input line 101.
 (pdftex.def)             Requested size: 161.10147pt x 141.5284pt.
 
-Overfull \hbox (4.7872pt too wide) in paragraph at lines 104--104
+Overfull \hbox (4.7872pt too wide) in paragraph at lines 105--105
 []\T1/cmr/bx/n/12 Measurement of equivalent capacitance for Different Configuration of Both 
  []
 
 <images/procedure/part5.png, id=104, 251.94125pt x 132.495pt>
 File: images/procedure/part5.png Graphic file (type png)
 <use images/procedure/part5.png>
-Package pdftex.def Info: images/procedure/part5.png  used on input line 109.
+Package pdftex.def Info: images/procedure/part5.png  used on input line 110.
 (pdftex.def)             Requested size: 125.9703pt x 66.24733pt.
 [2 <./images/procedure/part3.png> <./images/procedure/part4.png> <./images/procedure/part5.png>]
 <./images//questions/1.png, id=115, 200.75pt x 168.63pt>
 File: ./images//questions/1.png Graphic file (type png)
 <use ./images//questions/1.png>
-Package pdftex.def Info: ./images//questions/1.png  used on input line 180.
+Package pdftex.def Info: ./images//questions/1.png  used on input line 181.
 (pdftex.def)             Requested size: 200.7495pt x 168.62958pt.
 <./images//questions/2.png, id=116, 200.75pt x 149.55875pt>
 File: ./images//questions/2.png Graphic file (type png)
 <use ./images//questions/2.png>
-Package pdftex.def Info: ./images//questions/2.png  used on input line 190.
+Package pdftex.def Info: ./images//questions/2.png  used on input line 191.
 (pdftex.def)             Requested size: 200.7495pt x 149.55838pt.
  [3 <./images//questions/1.png>] [4 <./images//questions/2.png>] (./lab3.aux)
 Package rerunfilecheck Info: File `lab3.out' has not changed.
