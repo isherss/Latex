@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 09:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 10:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -788,7 +788,7 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 \end{document}
+l.124 \end{document}
                      [1] (./lab3.aux)
 Package rerunfilecheck Info: File `lab3.out' has not changed.
 (rerunfilecheck)             Checksum: FE208F15F645F035121EB0B24657215D;3225.
