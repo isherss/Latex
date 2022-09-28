@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  28 SEP 2022 12:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,12 +792,12 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<images/procedure/part2.png, id=87, 112.42pt x 92.84688pt>
+<images/procedure/part2.png, id=91, 112.42pt x 92.84688pt>
 File: images/procedure/part2.png Graphic file (type png)
 <use images/procedure/part2.png>
 Package pdftex.def Info: images/procedure/part2.png  used on input line 81.
 (pdftex.def)             Requested size: 112.41972pt x 92.84663pt.
-<images/procedure/part3.png, id=89, 264.99pt x 214.8025pt>
+<images/procedure/part3.png, id=93, 264.99pt x 214.8025pt>
 File: images/procedure/part3.png Graphic file (type png)
 <use images/procedure/part3.png>
 Package pdftex.def Info: images/procedure/part3.png  used on input line 90.
@@ -808,49 +808,58 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.95         \FloatBarrier
                            [1 <./images/procedure/part2.png>]
-<images/procedure/part4.png, id=103, 322.20375pt x 283.0575pt>
+Overfull \hbox (10.68321pt too wide) in paragraph at lines 97--98
+\T1/cmr/m/n/10 After assembling the capacitors in both parallel and series as shown below, our group collected the equivalent 
+ []
+
+<images/procedure/part4.png, id=107, 322.20375pt x 283.0575pt>
 File: images/procedure/part4.png Graphic file (type png)
 <use images/procedure/part4.png>
-Package pdftex.def Info: images/procedure/part4.png  used on input line 101.
-(pdftex.def)             Requested size: 161.10147pt x 141.5284pt.
+Package pdftex.def Info: images/procedure/part4.png  used on input line 102.
+(pdftex.def)             Requested size: 225.54108pt x 198.13889pt.
 
-Overfull \hbox (4.7872pt too wide) in paragraph at lines 105--105
+Overfull \hbox (4.7872pt too wide) in paragraph at lines 106--106
 []\T1/cmr/bx/n/12 Measurement of equivalent capacitance for Different Configuration of Both 
  []
 
-<images/procedure/part5.png, id=104, 125.97063pt x 132.495pt>
+<images/procedure/part5.png, id=108, 125.97063pt x 132.495pt>
 File: images/procedure/part5.png Graphic file (type png)
 <use images/procedure/part5.png>
-Package pdftex.def Info: images/procedure/part5.png  used on input line 110.
+Package pdftex.def Info: images/procedure/part5.png  used on input line 111.
 (pdftex.def)             Requested size: 62.98515pt x 66.24733pt.
+<images/procedure/part6.png, id=109, 86.82437pt x 83.31125pt>
+File: images/procedure/part6.png Graphic file (type png)
+<use images/procedure/part6.png>
+Package pdftex.def Info: images/procedure/part6.png  used on input line 122.
+(pdftex.def)             Requested size: 86.82416pt x 83.31104pt.
 [2 <./images/procedure/part3.png> <./images/procedure/part4.png> <./images/procedure/part5.png>]
-<./images//questions/1.png, id=115, 200.75pt x 168.63pt>
+<./images//questions/1.png, id=120, 200.75pt x 168.63pt>
 File: ./images//questions/1.png Graphic file (type png)
 <use ./images//questions/1.png>
-Package pdftex.def Info: ./images//questions/1.png  used on input line 181.
+Package pdftex.def Info: ./images//questions/1.png  used on input line 193.
 (pdftex.def)             Requested size: 200.7495pt x 168.62958pt.
-<./images//questions/2.png, id=116, 200.75pt x 149.55875pt>
+<./images//questions/2.png, id=121, 200.75pt x 149.55875pt>
 File: ./images//questions/2.png Graphic file (type png)
 <use ./images//questions/2.png>
-Package pdftex.def Info: ./images//questions/2.png  used on input line 191.
+Package pdftex.def Info: ./images//questions/2.png  used on input line 203.
 (pdftex.def)             Requested size: 200.7495pt x 149.55838pt.
- [3 <./images//questions/1.png>] [4 <./images//questions/2.png>] (./lab3.aux)
+ [3 <./images/procedure/part6.png>] [4 <./images//questions/1.png> <./images//questions/2.png>] (./lab3.aux)
 Package rerunfilecheck Info: File `lab3.out' has not changed.
-(rerunfilecheck)             Checksum: 5F54E4E5C41A7CF48812051E61B726D6;3245.
+(rerunfilecheck)             Checksum: 4D0AAB5CD103A61510748D5B5C942628;3571.
  ) 
 Here is how much of TeX's memory you used:
- 38104 strings out of 478238
- 889344 string characters out of 5850456
- 1298281 words of memory out of 5000000
- 55712 multiletter control sequences out of 15000+600000
+ 38114 strings out of 478238
+ 889587 string characters out of 5850456
+ 1299281 words of memory out of 5000000
+ 55719 multiletter control sequences out of 15000+600000
  486663 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,16n,91p,759b,803s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 88i,16n,91p,759b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on lab3.pdf (5 pages, 318001 bytes).
+Output written on lab3.pdf (5 pages, 322272 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 231 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
