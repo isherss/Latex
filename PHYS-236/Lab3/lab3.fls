@@ -1146,7 +1146,6 @@ INPUT ./lab3.out
 INPUT ./lab3.out
 OUTPUT lab3.out
 INPUT /usr/share/texmf-dist/tex/latex/graphics/color.sty
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
@@ -1176,6 +1175,7 @@ INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1440.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
