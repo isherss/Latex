@@ -63,12 +63,34 @@ Date performed: 09/28/2022}
 
 
 	\section{Experiment Analysis}
-    
+   	\subsection{Part 1} 
+   	\subsection{Part 2} 
+	For capacitors in series, the total capacitance can be calculated using the equation $\frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_n}$. In this part, actual capacitance is measured through the digital multimeter, then calculated using the expected formula. The results indicate that the given formula closely approximates the observed value. 
+   	\subsection{Part 3} 
+	For capacitors in parallel, the total capacitance can be calculated using the equation ${C_{eq}} = C_1 + C_2 + C_n$. In this part, actual capacitance is measured through the digital multimeter, then calculated using the expected formula. The results indicate that the given formula closely approximates the observed value. 
 
-
+   	\subsection{Part 4} 
+	Circuits with can contain capcitors in parallel and series. For these circuits, it is important to identify the main orientation scheme, then identifying the configurations within the larger circuit. In this case, there are two capacitors in series, and the two capacitors consist of two capacitors in parallel. Therefore, the equation to solve the total capacitance can be curated by solving for the two capacitors in parallel, then solving the circuit in series. The equation for the parallel capacitors is  ${C_{eq}} = C_1 + C_2 + C_n$. Then, using the equivalent capacitance of the two capacitors in series, the equation $\frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_n}$ can be utilized. Therefore, combining the two equations will yield the equation used to obtain the total capacitance of the entire circuit: $\left(\frac{1}{C_1 + C_2} + \frac{1}{C_3 + C_4}\right)^{-1}$.
+	\subsection{Part 5} 
+	Circuits with can contain capcitors in parallel and series. For these circuits, it is important to identify the main orientation scheme, then identifying the configurations within the larger circuit. In this case, there are three capacitors in parallel, and the three capacitors consist of two capacitors in series, and one lone capacitor. Therefore, the equation to solve the total capacitance can be curated by solving for the 2 capacitors in series, then solving the circuit in parallel. The equation for the capacitors in series  is  $\frac{1}{C_{eq}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_n}$. Then, using the equivalent capacitance of the three capacitors in parallel, the equation ${C_{eq}} = C_1 + C_2 + C_n$ can be utilized. Therefore, combining the two equations will yield the equation used to obtain the total capacitance of the entire circuit: $\left(\frac{C_1+C_2}{C_1 C_2}\right)^{-1}+ C_3 +\left(\frac{C_4+C_5}{C_4 C_5}\right)^{-1}$.
+   	\subsection{Part 6} 
+	The potential difference over capacitors in parallel will be the same for each one- being equivalent to total voltage in the circuit, no matter the capacitance value. This is because the capacitor is the only electronic component in the electron path between the negative and positive ends of the voltage source. Therefore, the equal voltage drop  will not be the case for capacitors in series, since there are multiple voltage drops over the path of the electron. Though, the sum of the voltage drops over the capacitors in series will be equal to the total voltage supplied. Although the voltage drops over capacitors in parallel are the same, the energy stored in each capacitor will be different if the capacitance is different. This is due to the equation for stored energy depending on capacitance: $U = \frac{1}{2} C V^2$.
+	\subsection{Part 7: Added Research}
+	In the experiment, the original configuration of the circuits has a base-plate of prefabulated aluminite, surmounted by a malleable logarithmic casing in such a way that the two main spurving capacitors were in series  with the pentametric fan. The latter consisted simply of six hydrocoptic marzlevanes, so fitted to the ambifacient lunar waneshaft that side fumbling was effectively prevented. The main winding was of the normal lotus-o-delta type placed in panendermic semi-bovoid slots in the stator, every seventh conductor being connected by a non-reversible tremie pipe to the differential girdlespring on the "up" end of the grammeters. Therefore, the equation 
+	
 
 	\section{Procedure}
-
+\begin{center}
+	\vspace{1cm}
+	\includegraphics[scale=0.2]{selfies/selfie-part5.jpg}\\
+	Fig 4.0.1 Photo of the lab performers in part 5.\\
+	\vspace{1cm}
+	\includegraphics[scale=0.14]{selfies/part-5.png}\\
+	Fig 4.0.2 Close-up of part 5.\\
+	\vspace{1cm}
+	\includegraphics[scale=0.12]{selfies/part-6.jpg}\\
+	Fig 4.0.3 Close-up of part 6.\\
+\end{center}
         \subsection{Measurement of Capacitance Using a Multi-Meter}
         Not using the breadboard to hold the capacitors in place, our group measured the capacitance of each capacitor while laying on the table. We then proceeded to fill out the values and calculate the percent errors in table 5.1.
 
@@ -181,7 +203,8 @@ Date performed: 09/28/2022}
             \includegraphics{questions/1}
         \end{figure}
 
-
+    {{Calculations for finding $\mathbf{C_{eq}}$}}
+    $$\left( \frac{1}{10\mu F + 2.5 \mu F}+\frac{1}{0.3\mu F} \right)^{-1} = 0.293\mu F$$
 
     
     	\subsection{Circuit 2}
