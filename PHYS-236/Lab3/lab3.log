@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  10 OCT 2022 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  10 OCT 2022 14:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,57 +792,66 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (12.68272pt too wide) in paragraph at lines 71--73
+\T1/cmr/m/n/10 As the distance between plates decreases with warping and slow chemical reactions, the capacitance increases.  
+ []
+
 <images/procedure/part2.png, id=91, 112.42pt x 92.84688pt>
 File: images/procedure/part2.png Graphic file (type png)
 <use images/procedure/part2.png>
-Package pdftex.def Info: images/procedure/part2.png  used on input line 86.
+Package pdftex.def Info: images/procedure/part2.png  used on input line 89.
 (pdftex.def)             Requested size: 112.41972pt x 92.84663pt.
+
+Overfull \hbox (0.9356pt too wide) in paragraph at lines 93--94
+\T1/cmr/m/n/10 After assembling the capacitors in parallel as shown in the figure below, our group measured the equivalent 
+ []
+
 <images/procedure/part3.png, id=93, 264.99pt x 214.8025pt>
 File: images/procedure/part3.png Graphic file (type png)
 <use images/procedure/part3.png>
-Package pdftex.def Info: images/procedure/part3.png  used on input line 95.
+Package pdftex.def Info: images/procedure/part3.png  used on input line 98.
 (pdftex.def)             Requested size: 132.49467pt x 107.40099pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.100         \FloatBarrier
+l.103         \FloatBarrier
                             [1 <./images/procedure/part2.png>]
-Overfull \hbox (10.68321pt too wide) in paragraph at lines 102--103
+Overfull \hbox (10.68321pt too wide) in paragraph at lines 105--106
 \T1/cmr/m/n/10 After assembling the capacitors in both parallel and series as shown below, our group collected the equivalent 
  []
 
 <images/procedure/part4.png, id=107, 322.20375pt x 283.0575pt>
 File: images/procedure/part4.png Graphic file (type png)
 <use images/procedure/part4.png>
-Package pdftex.def Info: images/procedure/part4.png  used on input line 107.
+Package pdftex.def Info: images/procedure/part4.png  used on input line 110.
 (pdftex.def)             Requested size: 225.54108pt x 198.13889pt.
 
-Overfull \hbox (4.7872pt too wide) in paragraph at lines 111--111
+Overfull \hbox (4.7872pt too wide) in paragraph at lines 114--114
 []\T1/cmr/bx/n/12 Measurement of equivalent capacitance for Different Configuration of Both 
  []
 
 <images/procedure/part5.png, id=108, 125.97063pt x 132.495pt>
 File: images/procedure/part5.png Graphic file (type png)
 <use images/procedure/part5.png>
-Package pdftex.def Info: images/procedure/part5.png  used on input line 116.
+Package pdftex.def Info: images/procedure/part5.png  used on input line 119.
 (pdftex.def)             Requested size: 62.98515pt x 66.24733pt.
 <images/procedure/part6.png, id=109, 86.82437pt x 83.31125pt>
 File: images/procedure/part6.png Graphic file (type png)
 <use images/procedure/part6.png>
-Package pdftex.def Info: images/procedure/part6.png  used on input line 127.
+Package pdftex.def Info: images/procedure/part6.png  used on input line 130.
 (pdftex.def)             Requested size: 86.82416pt x 83.31104pt.
 [2 <./images/procedure/part3.png> <./images/procedure/part4.png> <./images/procedure/part5.png>]
 <./images//questions/1.png, id=120, 200.75pt x 168.63pt>
 File: ./images//questions/1.png Graphic file (type png)
 <use ./images//questions/1.png>
-Package pdftex.def Info: ./images//questions/1.png  used on input line 199.
+Package pdftex.def Info: ./images//questions/1.png  used on input line 202.
 (pdftex.def)             Requested size: 200.7495pt x 168.62958pt.
  [3 <./images/procedure/part6.png>]
 <./images//questions/2.png, id=134, 200.75pt x 149.55875pt>
 File: ./images//questions/2.png Graphic file (type png)
 <use ./images//questions/2.png>
-Package pdftex.def Info: ./images//questions/2.png  used on input line 211.
+Package pdftex.def Info: ./images//questions/2.png  used on input line 214.
 (pdftex.def)             Requested size: 200.7495pt x 149.55838pt.
  [4 <./images//questions/1.png> <./images//questions/2.png>] (./lab3.aux)
 Package rerunfilecheck Info: File `lab3.out' has not changed.
@@ -857,7 +866,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  88i,16n,91p,759b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on lab3.pdf (5 pages, 322470 bytes).
+Output written on lab3.pdf (5 pages, 324040 bytes).
 PDF statistics:
  231 PDF objects out of 1000 (max. 8388607)
  172 compressed objects within 2 object streams
