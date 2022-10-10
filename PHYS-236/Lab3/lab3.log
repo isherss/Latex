@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  10 OCT 2022 16:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  10 OCT 2022 17:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,92 +811,92 @@ Overfull \hbox (7.54509pt too wide) in paragraph at lines 91--92
 \T1/cmr/m/n/10 the normal lotus-o-delta type placed in panendermic semi-bovoid slots in the stator, every seventh conductor 
  []
 
-<./images//selfies/selfie-part5.jpg, id=134, 1156.32pt x 867.24pt>
+<./images//selfies/selfie-part5.jpg, id=135, 1156.32pt x 867.24pt>
 File: ./images//selfies/selfie-part5.jpg Graphic file (type jpg)
 <use ./images//selfies/selfie-part5.jpg>
-Package pdftex.def Info: ./images//selfies/selfie-part5.jpg  used on input line 103.
+Package pdftex.def Info: ./images//selfies/selfie-part5.jpg  used on input line 105.
 (pdftex.def)             Requested size: 231.2599pt x 173.44493pt.
 [2]
-<./images//selfies/part-5.png, id=139, 1718.42pt x 1288.815pt>
+<./images//selfies/part-5.png, id=142, 1718.42pt x 1288.815pt>
 File: ./images//selfies/part-5.png Graphic file (type png)
 <use ./images//selfies/part-5.png>
-Package pdftex.def Info: ./images//selfies/part-5.png  used on input line 106.
+Package pdftex.def Info: ./images//selfies/part-5.png  used on input line 108.
 (pdftex.def)             Requested size: 240.57716pt x 180.43286pt.
-<./images//selfies/part-6.jpg, id=141, 2055.68pt x 1541.76pt>
+<./images//selfies/part-6.jpg, id=144, 2055.68pt x 1541.76pt>
 File: ./images//selfies/part-6.jpg Graphic file (type jpg)
 <use ./images//selfies/part-6.jpg>
-Package pdftex.def Info: ./images//selfies/part-6.jpg  used on input line 109.
+Package pdftex.def Info: ./images//selfies/part-6.jpg  used on input line 111.
 (pdftex.def)             Requested size: 246.67096pt x 185.00322pt.
  [3 <./images//selfies/selfie-part5.jpg> <./images//selfies/part-5.png>]
-<images/procedure/part2.png, id=147, 112.42pt x 92.84688pt>
+<images/procedure/part2.png, id=150, 112.42pt x 92.84688pt>
 File: images/procedure/part2.png Graphic file (type png)
 <use images/procedure/part2.png>
-Package pdftex.def Info: images/procedure/part2.png  used on input line 121.
+Package pdftex.def Info: images/procedure/part2.png  used on input line 123.
 (pdftex.def)             Requested size: 112.41972pt x 92.84663pt.
 
-Overfull \hbox (0.9356pt too wide) in paragraph at lines 125--126
+Overfull \hbox (0.9356pt too wide) in paragraph at lines 127--128
 \T1/cmr/m/n/10 After assembling the capacitors in parallel as shown in the figure below, our group measured the equivalent 
  []
 
-<images/procedure/part3.png, id=148, 264.99pt x 214.8025pt>
+<images/procedure/part3.png, id=151, 264.99pt x 214.8025pt>
 File: images/procedure/part3.png Graphic file (type png)
 <use images/procedure/part3.png>
-Package pdftex.def Info: images/procedure/part3.png  used on input line 130.
+Package pdftex.def Info: images/procedure/part3.png  used on input line 132.
 (pdftex.def)             Requested size: 132.49467pt x 107.40099pt.
 [4 <./images//selfies/part-6.jpg> <./images/procedure/part2.png>]
-Overfull \hbox (14.09904pt too wide) in paragraph at lines 137--138
+Overfull \hbox (14.09904pt too wide) in paragraph at lines 139--140
 \T1/cmr/m/n/10 After assembling the capacitors in both parallel and series as shown below, our group measured the equivalent 
  []
 
-<images/procedure/part4.png, id=155, 322.20375pt x 283.0575pt>
+<images/procedure/part4.png, id=158, 322.20375pt x 283.0575pt>
 File: images/procedure/part4.png Graphic file (type png)
 <use images/procedure/part4.png>
-Package pdftex.def Info: images/procedure/part4.png  used on input line 142.
+Package pdftex.def Info: images/procedure/part4.png  used on input line 144.
 (pdftex.def)             Requested size: 225.54108pt x 198.13889pt.
 
-Overfull \hbox (4.7872pt too wide) in paragraph at lines 146--146
+Overfull \hbox (4.7872pt too wide) in paragraph at lines 148--148
 []\T1/cmr/bx/n/12 Measurement of equivalent capacitance for Different Configuration of Both 
  []
 
-<images/procedure/part5.png, id=156, 125.97063pt x 132.495pt>
+<images/procedure/part5.png, id=159, 125.97063pt x 132.495pt>
 File: images/procedure/part5.png Graphic file (type png)
 <use images/procedure/part5.png>
-Package pdftex.def Info: images/procedure/part5.png  used on input line 151.
+Package pdftex.def Info: images/procedure/part5.png  used on input line 153.
 (pdftex.def)             Requested size: 100.77663pt x 105.99612pt.
-<images/procedure/part6.png, id=157, 86.82437pt x 83.31125pt>
+<images/procedure/part6.png, id=160, 86.82437pt x 83.31125pt>
 File: images/procedure/part6.png Graphic file (type png)
 <use images/procedure/part6.png>
-Package pdftex.def Info: images/procedure/part6.png  used on input line 162.
+Package pdftex.def Info: images/procedure/part6.png  used on input line 164.
 (pdftex.def)             Requested size: 86.82416pt x 83.31104pt.
 [5 <./images/procedure/part3.png> <./images/procedure/part4.png> <./images/procedure/part5.png>]
-<./images//questions/1.png, id=168, 200.75pt x 168.63pt>
+<./images//questions/1.png, id=171, 200.75pt x 168.63pt>
 File: ./images//questions/1.png Graphic file (type png)
 <use ./images//questions/1.png>
-Package pdftex.def Info: ./images//questions/1.png  used on input line 235.
+Package pdftex.def Info: ./images//questions/1.png  used on input line 237.
 (pdftex.def)             Requested size: 200.7495pt x 168.62958pt.
  [6 <./images/procedure/part6.png>]
-<./images//questions/2.png, id=184, 200.75pt x 149.55875pt>
+<./images//questions/2.png, id=186, 200.75pt x 149.55875pt>
 File: ./images//questions/2.png Graphic file (type png)
 <use ./images//questions/2.png>
-Package pdftex.def Info: ./images//questions/2.png  used on input line 248.
+Package pdftex.def Info: ./images//questions/2.png  used on input line 250.
 (pdftex.def)             Requested size: 200.7495pt x 149.55838pt.
  [7 <./images//questions/1.png> <./images//questions/2.png>] [8] (./lab3.aux)
 Package rerunfilecheck Info: File `lab3.out' has not changed.
 (rerunfilecheck)             Checksum: 41A04B636FA3ABF64EB3370551A64E5A;4294.
  ) 
 Here is how much of TeX's memory you used:
- 38158 strings out of 478238
- 890608 string characters out of 5850456
+ 38160 strings out of 478238
+ 890630 string characters out of 5850456
  1299281 words of memory out of 5000000
- 55747 multiletter control sequences out of 15000+600000
- 486663 words of font info for 71 fonts, out of 8000000 for 9000
+ 55748 multiletter control sequences out of 15000+600000
+ 486976 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,16n,91p,987b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on lab3.pdf (9 pages, 3585504 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on lab3.pdf (9 pages, 3608753 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
+ 302 PDF objects out of 1000 (max. 8388607)
+ 228 compressed objects within 3 object streams
  45 named destinations out of 1000 (max. 500000)
  271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
