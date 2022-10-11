@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665444300 "lab3.tex" "lab3.pdf" "lab3" 1665444301
+["pdflatex"] 1665447849 "lab3.tex" "lab3.pdf" "lab3" 1665447850
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -59,6 +59,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1650183167 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1650183167 135942 859a90cad7494a1e79c94baf546d7de5 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb" 1650183167 139826 9213617a7cb78635fc326b859c0b2273 ""
+  "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb" 1650183167 154599 ded6d7c21788a8930eadc7fef7518942 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1650183167 138258 6525c253f16cededa14c7fd0da7f67b2 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1650183167 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb" 1650183167 169201 9ebf99020dde51a5086e186761a34e8f ""
@@ -266,9 +267,9 @@
   "images/procedure/part4.png" 1664383170 8411 e5020db1b0dccfc7106ff3133827b02e ""
   "images/procedure/part5.png" 1664385444 13106 5add311c2fd95c8647b9c7883221a72e ""
   "images/procedure/part6.png" 1664383170 6829 6bc72f8b383680fe7634e5a2bd80d108 ""
-  "lab3.aux" 1665444301 4360 079ae0b322990293f22c4d09bf574116 "pdflatex"
-  "lab3.out" 1665444301 4294 41a04b636fa3abf64eb3370551a64e5a "pdflatex"
-  "lab3.tex" 1665444300 13328 b093e36ce9dca90e00227c3ca079a057 ""
+  "lab3.aux" 1665447850 4929 8041ba54978d6351134a88f324a1658c "pdflatex"
+  "lab3.out" 1665447850 4764 8d7b2923dd1059f5e914838c1440e364 "pdflatex"
+  "lab3.tex" 1665447848 15892 215887cbd0e2a73f10ec26c7b560c27b ""
   (generated)
   "lab3.aux"
   "lab3.log"
