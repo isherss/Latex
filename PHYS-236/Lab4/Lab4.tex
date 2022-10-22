@@ -199,8 +199,8 @@ since the values of the resistances are directly proportional to the lengths of 
 	\textbf{Calculated value of the wire conductivity}:
 	$$\sigma = 834\cdot 10^{3} \frac{1}{\Omega m}$$
 	\textbf{Uncertainty of the calculated resistance}
-	$$\Delta R = 9.73\Omega$$
-	$$7.4 \pm 9.73$$
+	$$\Delta R = 9.77\Omega$$
+	$$7.4 \pm 9.77$$
 \end{center}
 	\subsection{Wheatstone Bridge} 
 	\begin{table}[ht]
@@ -242,6 +242,10 @@ since the values of the resistances are directly proportional to the lengths of 
 	$$\sigma = \frac{1}{\rho}$$
 	To find the uncertainty of the resistance, the given equation is:
 	$$\Delta R = \frac{l}{\pi r^{2}} \Delta \rho + \frac{\rho}{\pi r^{2}} \Delta l + \frac{2 \rho l}{\pi r^{3}} \Delta r$$
+	Substituting in the data:
+	$$\Delta R = \frac{1}{\pi \left(0.0227\cdot10^{-2}\right)^{2}} \left(\left(1.5-1.1\right)\cdot10^{-6}\right)  + \frac{1.1988\cdot10^{-6}}{\pi \left(0.0227\cdot10^{-2}\right)^{2}} \left(0.001+0.0011813\cdot10^{-2}\right)$$
+	$$+ \frac{2\left(1.1988\cdot10^{-6}\right) \left(1\right)}{\pi \left(0.0227\cdot10^{-2}\right)^{3}} \left(10^{-4}+0.0011813\cdot10^{-2}\right) = \pm 9.77\Omega$$
+
 	\subsection{Wheatstone Bridge}
 In order to calculate the unknown resistor's resistance, the equation derived from Kirchhoff's law is exercised:
 $$R_{x} = \frac{R_{s} L_{2}}{L_{1}}$$	
