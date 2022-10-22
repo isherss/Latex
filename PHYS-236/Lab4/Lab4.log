@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  21 OCT 2022 18:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  21 OCT 2022 23:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -785,27 +785,65 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rho' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 66.
+
+
+Overfull \hbox (7.32292pt too wide) in paragraph at lines 71--72
+\T1/cmr/m/n/10 In part 1, our objective is to measure the resistivity constant of our nichrome wire. We can use the following 
+ []
+
+
+Overfull \hbox (14.62767pt too wide) in paragraph at lines 79--81
+\T1/cmr/m/n/10 Where $\OML/cmm/m/it/10 @^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OML/cmm/m/it/10 @l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (0.79674pt too wide) in paragraph at lines 86--87
+\T1/cmr/m/n/10 In a Wheatstone bridge, the wire connecting the two parallel resistors will have a point where the potential 
+ []
+
+
+Overfull \hbox (23.29124pt too wide) in paragraph at lines 86--87
+\T1/cmr/m/n/10 bridge, as it is divided essentially into two resistors. Using this phenomenon, we can "calibrate" the Wheatstone 
+ []
+
+<./images//exanal/wheatstone.png, id=63, 518.93875pt x 376.40625pt>
+File: ./images//exanal/wheatstone.png Graphic file (type png)
+<use ./images//exanal/wheatstone.png>
+Package pdftex.def Info: ./images//exanal/wheatstone.png  used on input line 91.
+(pdftex.def)             Requested size: 207.57182pt x 150.55983pt.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.80 \end{document}
-                    [1] (./Lab4.aux)
+l.97         and $$ I_1 R_1 = I_2 R_3$$
+                                        [1 <./images//exanal/wheatstone.png>] [2] (./Lab4.aux)
 Package rerunfilecheck Info: File `Lab4.out' has not changed.
-(rerunfilecheck)             Checksum: 45D6719FD9A1355536D0F3E5FD711C8B;946.
+(rerunfilecheck)             Checksum: 6CF189FFC9C1195538538F4F1B6D5652;1262.
  ) 
 Here is how much of TeX's memory you used:
- 37879 strings out of 478238
- 885755 string characters out of 5850456
- 1284281 words of memory out of 5000000
- 55540 multiletter control sequences out of 15000+600000
- 478373 words of font info for 48 fonts, out of 8000000 for 9000
+ 37912 strings out of 478238
+ 886389 string characters out of 5850456
+ 1290281 words of memory out of 5000000
+ 55561 multiletter control sequences out of 15000+600000
+ 481137 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,7n,91p,759b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab4.pdf (2 pages, 95686 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Lab4.pdf (3 pages, 284589 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
