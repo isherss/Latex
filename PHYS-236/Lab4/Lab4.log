@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.9.12)  21 OCT 2022 22:43
 =======
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.21)  21 OCT 2022 22:46
 >>>>>>> origin/janchbranch
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  21 OCT 2022 23:00
+>>>>>>> origin/gaming-branch
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -799,6 +803,7 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+<<<<<<< HEAD
 (hyperref)                removing `math shift' on input line 71.
 
 
@@ -826,10 +831,48 @@ File: lab-circuit-diagram.png Graphic file (type png)
 Package pdftex.def Info: lab-circuit-diagram.png  used on input line 100.
 (pdftex.def)             Requested size: 274.4204pt x 205.96585pt.
 >>>>>>> origin/janchbranch
+=======
+(hyperref)                removing `math shift' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rho' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 66.
+
+
+Overfull \hbox (7.32292pt too wide) in paragraph at lines 71--72
+\T1/cmr/m/n/10 In part 1, our objective is to measure the resistivity constant of our nichrome wire. We can use the following 
+ []
+
+
+Overfull \hbox (14.62767pt too wide) in paragraph at lines 79--81
+\T1/cmr/m/n/10 Where $\OML/cmm/m/it/10 @^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OML/cmm/m/it/10 @l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (0.79674pt too wide) in paragraph at lines 86--87
+\T1/cmr/m/n/10 In a Wheatstone bridge, the wire connecting the two parallel resistors will have a point where the potential 
+ []
+
+
+Overfull \hbox (23.29124pt too wide) in paragraph at lines 86--87
+\T1/cmr/m/n/10 bridge, as it is divided essentially into two resistors. Using this phenomenon, we can "calibrate" the Wheatstone 
+ []
+
+<./images//exanal/wheatstone.png, id=63, 518.93875pt x 376.40625pt>
+File: ./images//exanal/wheatstone.png Graphic file (type png)
+<use ./images//exanal/wheatstone.png>
+Package pdftex.def Info: ./images//exanal/wheatstone.png  used on input line 91.
+(pdftex.def)             Requested size: 207.57182pt x 150.55983pt.
+>>>>>>> origin/gaming-branch
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 <<<<<<< HEAD
 l.129 	\section
                {Calculations and Results} [1]
@@ -904,4 +947,26 @@ PDF statistics:
  18 named destinations out of 1000 (max. 500000)
  138 words of extra memory for PDF output out of 10000 (max. 10000000)
 >>>>>>> origin/janchbranch
+=======
+l.97         and $$ I_1 R_1 = I_2 R_3$$
+                                        [1 <./images//exanal/wheatstone.png>] [2] (./Lab4.aux)
+Package rerunfilecheck Info: File `Lab4.out' has not changed.
+(rerunfilecheck)             Checksum: 6CF189FFC9C1195538538F4F1B6D5652;1262.
+ ) 
+Here is how much of TeX's memory you used:
+ 37912 strings out of 478238
+ 886389 string characters out of 5850456
+ 1290281 words of memory out of 5000000
+ 55561 multiletter control sequences out of 15000+600000
+ 481137 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,7n,91p,759b,786s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Lab4.pdf (3 pages, 284589 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 123 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> origin/gaming-branch
 
