@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  21 OCT 2022 23:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.4.29)  21 OCT 2022 23:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -785,127 +785,135 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 85.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rho' on input line 85.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 85.
-
-
-Overfull \hbox (7.32292pt too wide) in paragraph at lines 90--91
-\T1/cmr/m/n/10 In part 1, our objective is to measure the resistivity constant of our nichrome wire. We can use the following 
- []
-
-
-Overfull \hbox (14.62767pt too wide) in paragraph at lines 98--100
-\T1/cmr/m/n/10 Where $\OML/cmm/m/it/10 @^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OML/cmm/m/it/10 @l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , 
- []
-
-
-Overfull \hbox (0.79674pt too wide) in paragraph at lines 105--106
+Overfull \hbox (0.79674pt too wide) in paragraph at lines 83--84
 \T1/cmr/m/n/10 In a Wheatstone bridge, the wire connecting the two parallel resistors will have a point where the potential 
  []
 
 
-Overfull \hbox (23.29124pt too wide) in paragraph at lines 105--106
+Overfull \hbox (23.29124pt too wide) in paragraph at lines 83--84
 \T1/cmr/m/n/10 bridge, as it is divided essentially into two resistors. Using this phenomenon, we can "calibrate" the Wheatstone 
  []
 
-<./images//exanal/wheatstone.png, id=67, 518.93875pt x 376.40625pt>
-File: ./images//exanal/wheatstone.png Graphic file (type png)
-<use ./images//exanal/wheatstone.png>
-Package pdftex.def Info: ./images//exanal/wheatstone.png  used on input line 110.
-(pdftex.def)             Requested size: 207.57182pt x 150.55983pt.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 88.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\rho' on input line 88.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 88.
+
+
+Overfull \hbox (7.32292pt too wide) in paragraph at lines 93--94
+\T1/cmr/m/n/10 In part 1, our objective is to measure the resistivity constant of our nichrome wire. We can use the following 
+ []
+
+
+Overfull \hbox (14.62767pt too wide) in paragraph at lines 101--103
+\T1/cmr/m/n/10 Where $\OML/cmm/m/it/10 @^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 ^^Z \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OML/cmm/m/it/10 @l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , $\OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 l \OT1/cmr/m/n/10 = []$\T1/cmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (0.79674pt too wide) in paragraph at lines 108--109
+\T1/cmr/m/n/10 In a Wheatstone bridge, the wire connecting the two parallel resistors will have a point where the potential 
+ []
+
+
+Overfull \hbox (23.29124pt too wide) in paragraph at lines 108--109
+\T1/cmr/m/n/10 bridge, as it is divided essentially into two resistors. Using this phenomenon, we can "calibrate" the Wheatstone 
+ []
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112         \FloatBarrier
-                            [1]
-Overfull \hbox (20.58621pt too wide) in paragraph at lines 132--138
+l.109 
+       [1]
+<./images//exanal/wheatstone.png, id=92, 518.93875pt x 376.40625pt>
+File: ./images//exanal/wheatstone.png Graphic file (type png)
+<use ./images//exanal/wheatstone.png>
+Package pdftex.def Info: ./images//exanal/wheatstone.png  used on input line 113.
+(pdftex.def)             Requested size: 207.57182pt x 150.55983pt.
+
+Overfull \hbox (20.58621pt too wide) in paragraph at lines 135--141
 \T1/cmr/m/n/10 measured with a digital multimeter, $\OML/cmm/m/it/10 A$ \T1/cmr/m/n/10 is the cross-sectional area, and $\OML/cmm/m/it/10 l$ \T1/cmr/m/n/10 is the length of the wire. The resistivity 
  []
 
-
-Overfull \hbox (0.9356pt too wide) in paragraph at lines 140--144
+[2 <./images//exanal/wheatstone.png>]
+Overfull \hbox (0.9356pt too wide) in paragraph at lines 143--147
 []\T1/cmr/m/n/10 For the second part of the lab, we put together a wheatstone bridge circuit using the nichrome wire bridge- 
  []
 
-[2 <./images//exanal/wheatstone.png>]
-<lab-circuit-diagram.png, id=92, 1372.12625pt x 1029.8475pt>
+<lab-circuit-diagram.png, id=100, 1372.12625pt x 1029.8475pt>
 File: lab-circuit-diagram.png Graphic file (type png)
 <use lab-circuit-diagram.png>
-Package pdftex.def Info: lab-circuit-diagram.png  used on input line 146.
+Package pdftex.def Info: lab-circuit-diagram.png  used on input line 149.
 (pdftex.def)             Requested size: 274.4204pt x 205.96585pt.
 
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 161.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rho' on input line 161.
+(hyperref)                removing `math shift' on input line 164.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 161.
+(hyperref)                removing `\rho' on input line 164.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 164.
 
 [3 <./lab-circuit-diagram.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 221.
+(hyperref)                removing `math shift' on input line 224.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rho' on input line 221.
+(hyperref)                removing `\rho' on input line 224.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 221.
+(hyperref)                removing `math shift' on input line 224.
 
 [4]
-Overfull \hbox (12.34947pt too wide) in paragraph at lines 233--233
+Overfull \hbox (12.34947pt too wide) in paragraph at lines 236--236
 []\T1/cmr/m/n/10 The length of the wire that the resistance is being measured over can be found using an observable measuring 
  []
 
 
-Overfull \hbox (11.32195pt too wide) in paragraph at lines 243--244
+Overfull \hbox (11.32195pt too wide) in paragraph at lines 246--247
 \T1/cmr/m/n/10 In order to calculate the unknown resistor's resistance, the equation derived from Kirchhoff's law is exercised:  
  []
 
 
-Overfull \hbox (2.19087pt too wide) in paragraph at lines 244--245
+Overfull \hbox (2.19087pt too wide) in paragraph at lines 247--248
 $\OML/cmm/m/it/10 L[]$ \T1/cmr/m/n/10 is the distance measured from the left end of the measuring device, whereas $\OML/cmm/m/it/10 L[]$ \T1/cmr/m/n/10 is the distance measured 
  []
 
 
-Overfull \hbox (9.43352pt too wide) in paragraph at lines 250--251
+Overfull \hbox (9.43352pt too wide) in paragraph at lines 253--254
 \T1/cmr/m/n/10 adherence to its proper stature was exiguous throughout the measurements. Therefore, there were differences 
  []
 
 [5] [6] (./Lab4.aux)
 Package rerunfilecheck Info: File `Lab4.out' has not changed.
-(rerunfilecheck)             Checksum: 6D2B1128E715646E83FAC647106F102C;1822.
+(rerunfilecheck)             Checksum: E932D9BFAB8501CBF809FDEAB82BB69F;2004.
  ) 
 Here is how much of TeX's memory you used:
- 37935 strings out of 478238
- 886774 string characters out of 5850456
+ 37939 strings out of 478238
+ 886834 string characters out of 5850456
  1299281 words of memory out of 5000000
- 55576 multiletter control sequences out of 15000+600000
+ 55578 multiletter control sequences out of 15000+600000
  481137 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,11n,91p,1816b,830s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab4.pdf (7 pages, 423937 bytes).
+Output written on Lab4.pdf (7 pages, 424424 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 144 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
