@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666403046 "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" "Lab4.pdf" "Lab4" 1666403048
+["pdflatex"] 1666410411 "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" "Lab4.pdf" "Lab4" 1666410413
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666392319 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1666392322 31952 2ff24cc767f42972e5fff740d3fa9dee ""
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1666392322 40136 c59359913ce0a3e01323e75f67b66493 ""
@@ -224,10 +224,11 @@
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Lab4.aux" 1666403048 2316 0b0e41195e0da8a51b71aac47a7cda44 "pdflatex"
-  "Lab4.out" 1666403048 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
-  "Lab4.tex" 1666403046 3210 bf943120fd37fd8122eefce0452cbee2 ""
-  "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" 1666403046 3210 bf943120fd37fd8122eefce0452cbee2 ""
+  "Lab4.aux" 1666410413 2316 0b0e41195e0da8a51b71aac47a7cda44 "pdflatex"
+  "Lab4.out" 1666410413 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
+  "Lab4.tex" 1666410411 4131 711d731af32480c515212083ebb464f4 ""
+  "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" 1666410411 4131 711d731af32480c515212083ebb464f4 ""
+  "lab-circuit-diagram.png" 1666409061 195393 efe09aee55ea0bf793f80b6236bf014c ""
   (generated)
   "Lab4.aux"
   "Lab4.log"
