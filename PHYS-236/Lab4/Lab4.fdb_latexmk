@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666398790 "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" "Lab4.pdf" "Lab4" 1666398791
+["pdflatex"] 1666403046 "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" "Lab4.pdf" "Lab4" 1666403048
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666392319 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1666392322 31952 2ff24cc767f42972e5fff740d3fa9dee ""
   "C:/Users/jnpan/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1666392322 40136 c59359913ce0a3e01323e75f67b66493 ""
@@ -29,9 +29,11 @@
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575574700 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1664895951 152127 31067273495f46936aa2b3653cd6090b ""
@@ -222,10 +224,10 @@
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/jnpan/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Lab4.aux" 1666398791 2316 ecc7546f32358c627bf1ab0347d0b80f "pdflatex"
-  "Lab4.out" 1666398791 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
-  "Lab4.tex" 1666398789 2555 d6a5cb6329f573e39f5ca63313017562 ""
-  "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" 1666398789 2555 d6a5cb6329f573e39f5ca63313017562 ""
+  "Lab4.aux" 1666403048 2316 0b0e41195e0da8a51b71aac47a7cda44 "pdflatex"
+  "Lab4.out" 1666403048 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
+  "Lab4.tex" 1666403046 3210 bf943120fd37fd8122eefce0452cbee2 ""
+  "c:/Users/jnpan/git/Latex/PHYS-236/Lab4/Lab4.tex" 1666403046 3210 bf943120fd37fd8122eefce0452cbee2 ""
   (generated)
   "Lab4.aux"
   "Lab4.log"
