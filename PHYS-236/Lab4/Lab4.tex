@@ -68,21 +68,92 @@ Date performed: 10/10/2022}
 
 
 	\section{Data and Graphs}
-	\subsection{Part 1}
-	\subsection{Part 2} 
-	\subsection{Part 3}
-	\section{Results}
-	\section{Questions}
-
-
-	\subsection{Part 1}
-
-	\subsection{Part 2}
-
-    \subsection{Part 3}
-	
-    \subsection{Part 4}
-
+	\subsection{Measurement of the resistivity $\rho$}
+	\begin{table}[ht]
+		\begin{center}
+		\rowcolors{2}{gray!10}{gray!40}
+		\begin{tabular}{c|c|c}
+			Lab Partner & Diameter(cm) & Radius(cm) \\
+			\hline
+		        \cellcolor{white}		    &0.05  &0.025 \\
+			\cellcolor{white}\multirow{-2}{*}{Natalie} & 0.0445 & 0.2225 \\
+			\hline
+			\cellcolor{white} &0.045 &0.0225 \\
+			\cellcolor{white}\multirow{-2}{*}{Joseph} &0.44 &0.022 \\
+			\hline
+			\cellcolor{white} &0.0435 &0.02175 \\
+			\cellcolor{white}\multirow{-2}{*}{Zach} &0.0459 &0.02295\\
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{FFFFFF}{Average}} & 0.0227 \\
+			\hline
+			\multicolumn{2}{|c|}{\cellcolor[HTML]{FFFFFF}{Standard Deviation}} & 0.00118\\
+			\hline
+		\end{tabular}
+	\end{center}
+\end{table}
+\begin{center}
+	\textbf{Calculated cross-sectional area of wire}:
+	$$A = \pi r^{2} = 161.88 nm^{3}$$\\
+	\textbf{Measured Resistance of the wire}:
+	$$R = 7.4\Omega$$
+	\textbf{Calculated experimental value of resistivity}:
+	$$\rho = 1.1988\cdot 10^{-6}  \Omega m$$
+	\textbf{Upper percent error}: 
+	$$20.08\%$$
+	\textbf{Lower percent error}:
+	$$8.98\%$$
+	\textbf{Calculated value of the wire conductivity}:
+	$$\sigma = 834\cdot 10^{3} \frac{1}{\Omega m}$$
+	\textbf{Uncertainty of the calculated resistance}
+	$$\Delta R = 9.73\Omega$$
+	$$7.4 \pm 9.73$$
+\end{center}
+	\subsection{Wheatstone Bridge} 
+	\begin{table}[ht]
+		\begin{center}
+			\caption*{[Table 5.2.1] Finding the resistance of an unknown resistor using the wheatstone bridge.}
+			\rowcolors{2}{gray!10}{gray!40}
+		\begin{tabular}{c|c|c|c|c|c|c}
+			Unknown Resistor & R($\Omega$) & $L_1$ & $L_2$ & $R_x$ & DMM $R_x$ & Percent Difference \\
+			\hline
+			$R_{1x}$ & 610 & 0.927 & 0.073 & 48.0 & 52.6 & 8.68\\
+			$R_{2x}$ & 610 & 0.641 & 0.359 & 341.6 & 346.2 & 1.32\\
+			$R_{3x}$ & 1610 & 0.417&0.583& 2251& 2241& 0.44\\
+			$R_{4x}$ & 20010 &0.438&0.562& 25675&25760&0.33\\
+			$R_{5x}$ & 600010 &0.482&0.518& 644824&645000&0.03\\
+			$R_{6x}$ & 1000010 &0.128&0.872& 6812568&6800000&0.18\\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	\section{Calculations and Results}
+	The following is a list of equations used for each experiment section. All results are included in the tables under section 5.
+	\subsection{Measurement of the resistivity $\rho$}
+	To measure resistivity $\rho$, recall the equation:
+	$$R = \frac{\rho L}{A}$$
+	Which can be rewritten as:
+	$$\rho = \frac{RA}{L}$$
+	thus resistance, cross-sectional area, and length of the nichrome wire must be found. \\
+	\vspace{0.5cm}
+	The cross-sectional area of a circular wire can be found with the expression:
+	$$A = \pi r^{2}$$
+	\vspace{0.5cm}
+	The resistance over the length of the wire was measured using a digital multi-meter.\\
+	\vspace{0.05cm}
+	The length of the wire that the resistance is being measured over can be found using an observable measuring contraption, such as a meter stick.\\
+	\vspace{0.5cm}
+	Then to measure the percent error, the utilized expression is:
+	$$\text{Percent Error} = \frac{|\text{experimental} -\text{ theoretical}|}{-\text{theoretical}} \times 100$$
+	To calculate the upper percent error, the higher theoretical threshold is used, whereas the lower one is used for the lower percent error.\\
+	The calculation of the conductiviy of the wire is:
+	$$\sigma = \frac{1}{\rho}$$
+	To find the uncertainty of the resistance, the given equation is:
+	$$\Delta R = \frac{l}{\pi r^{2}} \Delta \rho + \frac{\rho}{\pi r^{2}} \Delta l + \frac{2 \rho l}{\pi r^{3}} \Delta r$$
+	\subsection{Wheatstone Bridge}
+In order to calculate the unknown resistor's resistance, the equation derived from Kirchhoff's law is exercised:
+$$R_{x} = \frac{R_{s} L_{2}}{L_{1}}$$	
+$L_{1}$ is the distance measured from the left end of the measuring device, whereas $L_{2}$ is the distance measured from the right end.\\
+To measure the percent error of the experimentally calculated resistance value of the unknown resistor, see the equation:
+	$$\text{Percent Error} = \frac{|\text{experimental} -\text{standard}|}{\text{standard}} \times 100$$
 	\section{Conclusion}
-
+To find the resistivity of the Nickel Chromium wire in this experiment, a caliper and micrometer were utilized to find the diameter of the wire. The usage of these instruments led to a mastery, since a lot of trials were conducted to become comfortable reading measurements. There were incidents in which the overtightening of such instruments became an issue, providing an innacurate assessment. The apparatus's adherence to its proper stature was exiguous throughout the measurements. Therefore, there were differences in each trial of measurement. The calculation of the experimental value of the resistivity of the Nichrome wire was within the theoretical range, which may have been affected by the impurities in the metal, or a fluctuating temperature, including possible inaccuracies of the resistance, length, or diameter. Though, the resistance uncertainty is very high, negating the accuracy of the calculated resistivity. For the Wheatstone Bridge, knowledge regarding  resistors in parallel and series were tested in order to solve for an unknown resistance. Following the derivation of the equation, a better undertanding of resistors was established. It was extremely difficult to exactly find the zero on the nichrome wire, due to constant movement. Once a zero was determined, the alligator clip would be blocking the view of the meter stick, forcing an estimation of length. Minute changes in temperature will also affect the resistivity of the wire, causing flucuations in measurement. Though, the percent differences of the experimental were extremely small anyway, proving the effectiveness in finding resistance of an unknown resistor using a wheatstone bridge. This experiment is able to confirm the behaviors of resistors in series and in parallel and resistivity.
 \end{document}
