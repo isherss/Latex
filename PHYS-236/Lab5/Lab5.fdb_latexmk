@@ -1,5 +1,9 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1666635888 "Lab5.tex" "Lab5.pdf" "Lab5" 1666635889
+=======
+["pdflatex"] 1666630464 "Lab5.tex" "Lab5.pdf" "Lab5" 1666630465
+>>>>>>> origin/main
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -227,6 +231,7 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1650183167 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
+<<<<<<< HEAD
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633517 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633500 2927661 bcfd463e5392e4077e3562e8360aac79 ""
   "Lab5.aux" 1666635888 3381 e083d4791b2b7138d161ec611136b119 "pdflatex"
@@ -235,6 +240,13 @@
   "images//procedure/parallel.jpg" 1666633440 271584 406e08df546aae3c4fbea7874fad2172 ""
   "images//procedure/series.jpg" 1666633427 226861 40702f412f84c045c289475722252b6e ""
   "images//procedure/unknownresistors.jpg" 1666633421 185544 3238ddd8189a2331b8ce5a52272ea42f ""
+=======
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1651284286 4278762 af3ac1370db81a450c1118eabf1fe718 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1651284275 2927658 1f09d7589206139874f5344b28dd01d6 ""
+  "Lab5.aux" 1666630464 2894 c4db837589e0581fade433ef3874e2b0 "pdflatex"
+  "Lab5.out" 1666630464 1925 d2de4e619eb4ad698680298306966e14 "pdflatex"
+  "Lab5.tex" 1666630463 3299 7e744b3fe5075b5919f7630ffce48c6f ""
+>>>>>>> origin/main
   "images/questions/circuit.png" 1666626768 8562 1af70fdca40f32ec362330d21eb01bb0 ""
   (generated)
   "Lab5.aux"
