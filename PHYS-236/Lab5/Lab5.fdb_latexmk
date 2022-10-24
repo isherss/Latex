@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666626525 "Lab5.tex" "Lab5.pdf" "Lab5" 1666626526
+["pdflatex"] 1666629610 "Lab5.tex" "Lab5.pdf" "Lab5" 1666629611
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1650183167 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -227,10 +227,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1651284286 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1651284275 2927658 1f09d7589206139874f5344b28dd01d6 ""
-  "Lab5.aux" 1666626526 2894 c4db837589e0581fade433ef3874e2b0 "pdflatex"
-  "Lab5.out" 1666626526 1925 d2de4e619eb4ad698680298306966e14 "pdflatex"
-  "Lab5.tex" 1666626523 3299 7e744b3fe5075b5919f7630ffce48c6f ""
-  "images/questions/circuit.png" 1666622749 8562 1af70fdca40f32ec362330d21eb01bb0 ""
+  "Lab5.aux" 1666629611 2894 c4db837589e0581fade433ef3874e2b0 "pdflatex"
+  "Lab5.out" 1666629611 1925 d2de4e619eb4ad698680298306966e14 "pdflatex"
+  "Lab5.tex" 1666629609 3297 26bb37f45ee3ae832d62ad2228ade3c7 ""
+  "images/questions/circuit.png" 1666626768 8562 1af70fdca40f32ec362330d21eb01bb0 ""
   (generated)
   "Lab5.aux"
   "Lab5.log"
