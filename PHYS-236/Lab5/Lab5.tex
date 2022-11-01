@@ -130,15 +130,82 @@ Date performed: 24/10/2022}
 
 
 	\section{Data and Graphs}
-	\subsection{Part 1}
-	\subsection{Part 2} 
-	\subsection{Part 3}
+	\subsection{Value of the Resistor}
+		\begin{center}
+		\rowcolors{2}{gray!10}{gray!40}
+		\begin{tabular}{c|c|c|c|c}
+			Resistor & Colors & Expected Resistance (\(\Omega\)) & Actual Resistance (\(\Omega\)) & Percent Error \\
+			\hline
+			1 &\textcolor{red}{ Blue} \textcolor{blue}{ Grey} Green Silver & 6800k\(\Omega \pm 10\%\) & 7200k\(\Omega\) & 5.88\% \\
+			2 & Blue Grey Yellow Silver & 680k\(\Omega \pm 10\%\) & 644k\(\Omega\) & 5.29\% \\
+			3 & Red Purple Orange Silver & 27k\(\Omega \pm 10\%\) & 27.35k\(\Omega\) & 1.30\% \\
+			4 & Red Red Red Silver & 2200\(\Omega \pm 10\%\) & 2198\(\Omega\) & 0.09\% \\
+			5 & Orange Orange Brown Silver & 330\(\Omega \pm 10\%\) & 334.5\(\Omega\) & 1.36\% \\
+			6 & Yellow Purple Black Gold & 47\(\Omega \pm 5\%\) & 47.5\(\Omega\) & 1.06\% \\
+			
+		\end{tabular}
+	\end{center}
+	\subsection{Series Circuit} 
+		\begin{center}
+		\rowcolors{2}{gray!10}{gray!40}
+		\begin{tabular}{c|c|c}
+			Resistor ( \(\Omega\)) & Measured Voltage Drop (V) & Calculated Current (mA) \\
+			\hline
+			368.2 & 1.2 & 3.26\\
+			328.7 & 1.07 & 3.26\\
+			521.9 & 1.7 & 3.26
+		\end{tabular}
+	\end{center}
+	\subsection{Parallel Circuit}
+		\begin{center}
+		\rowcolors{2}{gray!10}{gray!40}
+		\begin{tabular}{c|c|c|c}
+			Resistor (\(\Omega\)) & Measured Voltage Drop (V) & Calculated Current (mA) & Power Dissipated (W)\\
+			\hline
+			368.2 & 3.9 & 106 & 0.4134\\
+			328.7 & 3.9 & 119 & 0.4641\\
+			521.9 & 3.9 & 74.7 & 0.291
+		\end{tabular}
+	\end{center}
     \section{Calculations \& Results}
 
-        \subsection{Part 1} 
-    For calculating the equivalent resistance
+        \subsection{Value of the Resistor} 
+		In order to find the expected/nominal value of the resistor, Figure 7.1.1 was taken into consideration. Each colored stripe on the resistor corresponded to a digit, magnitude, or tolerance. 
+		\begin{center}
+		\begin{figure}[h!]
+			\caption*{[Fig 7.1.1] 4-band Resistor Color Chart}
+			\centering
+                \includegraphics[scale=0.17]{results/band-code.jpg}
+	\end{figure}
+	\end{center}
+The actual resistance was found via the Digital Multimeter on resistor mode, and connecting one lead on each end of the resistor. \\
+\vspace{0.5cm}
+The percent error was found using the expression
+\[\%E = \frac{|\text{Theoretical} - \text{Experimental}|}{\text{Theoretical}} \times 100\]
 
-        \subsection{Part 2} 
+To check if the resistors are within specification, the tolerance was applied to the nominal value of the resistor. This was done by creating a range of values the resistance could fall into. To find the lower bound, the following equation was used:
+\[\text{Lower Bound} = \text{Nominal Resistance} - \left(\frac{\text{Nominal Resistance} \times \text{Tolerance}}{100}\right)\] 
+To find the upper bound, the following equation was used:
+\[\text{Upper Bound} = \text{Nominal Resistance} + \left(\frac{\text{Nominal Resistance} \times \text{Tolerance}}{100}\right)\] 
+Thus, all of the measured resistances fall into the specification range.
+
+        \subsection{Series Circuit} 
+	In order to find the current over a specific resistor, the resistance and voltage drop of the resistor is needed. Then, the following equation is applied:
+\[ \text{I} = \frac{\text{V}}{\text{R}} \]
+To find the equivalent resistance of a circuit in series, the following formula was used:
+\[\text{V}_{eq} = \text{R}_{1} + \text{R}_2 + \text{R}_n + ... \]
+To find the percent error in the voltage drops compared to the power supply value, the following equation is used:
+\[\%E = \frac{|\text{Power Supply Voltage} - \text{Voltage Drop Total}|}{\text{Power Supply Voltage}} \times 100\]
+
+	\subsection{Parallel Circuit}
+	In order to find the current over a specific resistor, the resistance and voltage drop of the resistor is needed. Then, the following equation is applied:
+\[ \text{I} = \frac{\text{V}}{\text{R}} \]
+	To find the power dissipated by each resistor in the circuit, apply the following equation:
+	\[ \text{P} = \text{IV}\]
+	To find the equivalent resistance of a circuit in parallel, the following formula was used:
+	\[\frac{1}{\text{R}_{eq}} = \frac{1}{\text{R}_1} + \frac{1}{\text{R}_2} + \frac{1}{\text{R}_n} + ... \]
+	To find the current through the battery, apply the following equation using the battery voltage and the equivalent resistance.
+\[ \text{I} = \frac{\text{V}}{\text{R}} \]
 
 
 \section{Questions}
