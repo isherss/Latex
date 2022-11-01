@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  31 OCT 2022 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  31 OCT 2022 22:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -813,69 +813,69 @@ Package pdftex.def Info: ./images//exanal/parallel.png  used on input line 107.
 <./images//procedure/unknownresistors.jpg, id=106, 730.73pt x 974.64125pt>
 File: ./images//procedure/unknownresistors.jpg Graphic file (type jpg)
 <use ./images//procedure/unknownresistors.jpg>
-Package pdftex.def Info: ./images//procedure/unknownresistors.jpg  used on input line 117.
+Package pdftex.def Info: ./images//procedure/unknownresistors.jpg  used on input line 118.
 (pdftex.def)             Requested size: 146.1434pt x 194.92479pt.
-<./images//procedure/series.jpg, id=107, 1299.85625pt x 974.64125pt>
+ [2 <./images//exanal/series.png> <./images//exanal/parallel.png>]
+<./images//procedure/series.jpg, id=117, 1299.85625pt x 974.64125pt>
 File: ./images//procedure/series.jpg Graphic file (type jpg)
 <use ./images//procedure/series.jpg>
-Package pdftex.def Info: ./images//procedure/series.jpg  used on input line 130.
+Package pdftex.def Info: ./images//procedure/series.jpg  used on input line 133.
 (pdftex.def)             Requested size: 259.96664pt x 194.92479pt.
- [2 <./images//exanal/series.png> <./images//exanal/parallel.png>]
-<./images//procedure/parallel.jpg, id=120, 1299.85625pt x 974.64125pt>
+<./images//procedure/parallel.jpg, id=118, 1299.85625pt x 974.64125pt>
 File: ./images//procedure/parallel.jpg Graphic file (type jpg)
 <use ./images//procedure/parallel.jpg>
-Package pdftex.def Info: ./images//procedure/parallel.jpg  used on input line 143.
+Package pdftex.def Info: ./images//procedure/parallel.jpg  used on input line 147.
 (pdftex.def)             Requested size: 259.96664pt x 194.92479pt.
  [3 <./images//procedure/unknownresistors.jpg> <./images//procedure/series.jpg>]
-Overfull \hbox (17.74449pt too wide) in paragraph at lines 152--163
+Overfull \hbox (17.74449pt too wide) in paragraph at lines 156--167
  [] 
  []
 
 <./images//results/band-code.jpg, id=127, 1558.82375pt x 1606.0pt>
 File: ./images//results/band-code.jpg Graphic file (type jpg)
 <use ./images//results/band-code.jpg>
-Package pdftex.def Info: ./images//results/band-code.jpg  used on input line 194.
+Package pdftex.def Info: ./images//results/band-code.jpg  used on input line 198.
 (pdftex.def)             Requested size: 264.99654pt x 273.01639pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4 <./images//procedure/parallel.jpg>]
-Overfull \hbox (3.18504pt too wide) in paragraph at lines 202--203
+Overfull \hbox (3.18504pt too wide) in paragraph at lines 206--207
 \T1/cmr/m/n/10 resistor. This was done by creating a range of values the resistance could fall into. To find the lower bound, 
  []
 
 
-Overfull \hbox (2.2686pt too wide) in paragraph at lines 209--210
+Overfull \hbox (2.2686pt too wide) in paragraph at lines 213--214
 \T1/cmr/m/n/10 In order to find the current over a specific resistor, the resistance and voltage drop of the resistor is needed. 
  []
 
 [5 <./images//results/band-code.jpg>]
-Overfull \hbox (2.2686pt too wide) in paragraph at lines 217--218
+Overfull \hbox (2.2686pt too wide) in paragraph at lines 221--222
 \T1/cmr/m/n/10 In order to find the current over a specific resistor, the resistance and voltage drop of the resistor is needed. 
  []
 
 <./images//questions/measurement.jpg, id=139, 730.73pt x 974.64125pt>
 File: ./images//questions/measurement.jpg Graphic file (type jpg)
 <use ./images//questions/measurement.jpg>
-Package pdftex.def Info: ./images//questions/measurement.jpg  used on input line 234.
+Package pdftex.def Info: ./images//questions/measurement.jpg  used on input line 238.
 (pdftex.def)             Requested size: 146.1434pt x 194.92479pt.
 [6 <./images//questions/measurement.jpg>]
-Overfull \hbox (7.77339pt too wide) in paragraph at lines 250--250
+Overfull \hbox (7.77339pt too wide) in paragraph at lines 254--254
 []\T1/cmr/m/n/10 Did the voltage drop across the resistors add up to the value of the power supply? What is the percent 
  []
 
 <images/questions/circuit.png, id=149, 124.66576pt x 68.6565pt>
 File: images/questions/circuit.png Graphic file (type png)
 <use images/questions/circuit.png>
-Package pdftex.def Info: images/questions/circuit.png  used on input line 274.
+Package pdftex.def Info: images/questions/circuit.png  used on input line 278.
 (pdftex.def)             Requested size: 149.59813pt x 82.38736pt.
 [7 <./images/questions/circuit.png>]
-Overfull \hbox (17.015pt too wide) in paragraph at lines 297--298
+Overfull \hbox (17.015pt too wide) in paragraph at lines 301--302
 \T1/cmr/m/n/10 varying configurations of series and parallel resistors. With relatively low percentage errors, the only variations 
  []
 
 
-Overfull \hbox (10.71098pt too wide) in paragraph at lines 297--298
+Overfull \hbox (10.71098pt too wide) in paragraph at lines 301--302
 \T1/cmr/m/n/10 there is basically no human error that can throw off the accuracy of measurements, aside from misconfiguring 
  []
 
@@ -892,7 +892,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  88i,8n,91p,759b,860s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab5.pdf (9 pages, 2213880 bytes).
+Output written on Lab5.pdf (9 pages, 2213924 bytes).
 PDF statistics:
  258 PDF objects out of 1000 (max. 8388607)
  198 compressed objects within 2 object streams
