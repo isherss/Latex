@@ -1167,6 +1167,14 @@ INPUT ./images//theory/breadboard.png
 INPUT ./images//theory/breadboard.png
 INPUT ./images//theory/breadboard.png
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
+INPUT ./images//exanal/series.png
+INPUT ./images//exanal/series.png
+INPUT ./images//exanal/series.png
+INPUT ./images//exanal/series.png
+INPUT ./images//exanal/parallel.png
+INPUT ./images//exanal/parallel.png
+INPUT ./images//exanal/parallel.png
+INPUT ./images//exanal/parallel.png
 INPUT ./images//procedure/unknownresistors.jpg
 INPUT ./images//procedure/unknownresistors.jpg
 INPUT ./images//procedure/unknownresistors.jpg
