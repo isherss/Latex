@@ -236,6 +236,11 @@ To find the percent error in the voltage drops compared to the power supply valu
             \\(There is a hand maintaining pressure on the probes for optimal contact just outside of the frame)
 
         \item Do some research about the meaning of the tolerance (gold or silver colors). Are the resistors within specification? Explain\\
+		The gold and silver bands on the resistor indicate the plus or minus percentage for the lower and upper bounds of the accepted value of resistance for the resistor. Therefore, the lower and upper bounds of acceptance can be found using the equation 
+\[\text{Lower Bound} = \text{Nominal Resistance} - \left(\frac{\text{Nominal Resistance} \times \text{Tolerance}}{100}\right)\] 
+To find the upper bound, the following equation was used:
+\[\text{Upper Bound} = \text{Nominal Resistance} + \left(\frac{\text{Nominal Resistance} \times \text{Tolerance}}{100}\right)\] 
+Applying these equations, the measured resistances fall within accepted bounds.
     \end{enumerate}
     \FloatBarrier
 
