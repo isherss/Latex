@@ -5,7 +5,7 @@
 - [x] Purpose
 - [x] Materials
 - [x] Theory 
-- [ ] Experiment analysis 
+- [x] Experiment analysis 
 - [x] Procedure
 - [x] Data and Graphs
 - [x] Calculations and Results
