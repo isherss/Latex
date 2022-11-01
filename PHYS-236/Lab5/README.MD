@@ -6,7 +6,7 @@
 - [x] Materials
 - [x] Theory 
 - [ ] Experiment analysis 
-- [ ] Data and Graphs
-- [ ] Calculations and Results
+- [x] Data and Graphs
+- [x] Calculations and Results
 - [ ] Questions - half done ish
 - [ ] Conclusion
