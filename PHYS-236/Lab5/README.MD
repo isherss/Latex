@@ -6,7 +6,8 @@
 - [x] Materials
 - [x] Theory 
 - [ ] Experiment analysis 
+- [x] Procedure
 - [x] Data and Graphs
 - [x] Calculations and Results
-- [ ] Questions - half done ish
-- [ ] Conclusion
+- [x] Questions
+- [x] Conclusion
