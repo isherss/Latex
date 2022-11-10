@@ -1,7 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1667403212 "Lab6.tex" "Lab6.pdf" "Lab6" 1667403213
+["pdflatex"] 1668039600 "Lab6.tex" "Lab6.pdf" "Lab6" 1668039602
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1650183167 3584 402da0b29eafbad07963b1224b222f18 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm" 1650183167 3584 13049b61b922a28b158a38aeff75ee9b ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1650183167 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
@@ -29,6 +30,7 @@
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1650183167 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1650183167 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1650183167 32716 08e384dc442464e7285e891af9f45947 ""
+  "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1650183167 145408 43d44302ca7d82d487f511f83e309505 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1650183167 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb" 1650183167 135942 859a90cad7494a1e79c94baf546d7de5 ""
   "/usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb" 1650183167 139826 9213617a7cb78635fc326b859c0b2273 ""
@@ -227,9 +229,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633517 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633500 2927661 bcfd463e5392e4077e3562e8360aac79 ""
-  "Lab6.aux" 1667403213 2448 29e7010708fbcf1e2145772ccb9de39f "pdflatex"
-  "Lab6.out" 1667403213 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
-  "Lab6.tex" 1667403211 1852 586627200eaed519de2564486add172e ""
+  "Lab6.aux" 1668039601 2448 29e7010708fbcf1e2145772ccb9de39f "pdflatex"
+  "Lab6.out" 1668039601 1399 1ca73525cf1fc196134d26617609944e "pdflatex"
+  "Lab6.tex" 1668039599 2720 0c938033d0c3ce9000062c58e9b4e0d4 ""
   (generated)
   "Lab6.aux"
   "Lab6.log"
