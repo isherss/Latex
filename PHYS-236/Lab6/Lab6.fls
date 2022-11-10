@@ -1167,7 +1167,6 @@ INPUT images/theory/circuit.png
 INPUT ./images/theory/circuit.png
 INPUT ./images/theory/circuit.png
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
-<<<<<<< HEAD
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
 INPUT ./images/procedure/charging.png
@@ -1176,11 +1175,9 @@ INPUT images/procedure/charging.png
 INPUT ./images/procedure/charging.png
 INPUT ./images/procedure/charging.png
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
-=======
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
->>>>>>> origin/ish-branch
 INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
 INPUT ./images//Voltage-Time.png
 INPUT ./images//Voltage-Time.png
@@ -1197,8 +1194,6 @@ INPUT ./images//help.png
 INPUT ./images//help.png
 INPUT ./images//help.png
 INPUT ./images//help.png
-INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0500.tfm
 INPUT Lab6.aux
 INPUT ./Lab6.out
 INPUT ./Lab6.out

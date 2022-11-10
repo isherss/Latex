@@ -129,7 +129,7 @@ Date performed: 11/02/2022}
 
 
 
-
+\newpage
 	\section{Data and Graphs}
 	\subsection{Part I: Calculate the value of the time constant}
 		The measured value of capacitance of the the capacitor is
@@ -146,8 +146,8 @@ Date performed: 11/02/2022}
 				103.34 & 100 & 3.34
 			\end{tabular}
 		\end{table}
-
 	\subsection{Part II: Charging the capacitor } 
+	\smash{
 	\begin{minipage}[h]{0.5\textwidth}
 		\rowcolors{2}{gray!10}{gray!40}
 		\textbf{Voltage v Time for Charging}
@@ -208,6 +208,7 @@ Date performed: 11/02/2022}
 		\end{tabular}
 		\vspace{14.8cm}
 	\end{minipage}
+}
 	\begin{minipage}[b]{0.5\textwidth}
 		\rowcolors{2}{gray!10}{gray!40}
 				\centering
@@ -336,7 +337,14 @@ The voltage read across the capacitor with the DMM is \textbf{4.009 V}\\
 	$$\% error = \frac{|\tau_{measured} - \tau_{nominal}|}{\tau_{nominal}} \times 100$$
 	\subsection{Part II: Charging the capacitor}
 	In order to linearize the voltage values measured, the following expression is examined:
-	$$V_c = \varepsilon \left(1-e^{\frac{-t}{\tau}}\right)$$
+    $$V_c = \varepsilon \left( 1- e^{-\frac{t}{\tau}} \right)  | \div \varepsilon  $$
+    $$ \frac{V_c}{\varepsilon}= 1-e^{-\frac{t}{\tau}} $$
+    $$ e^{-\frac{t}{\tau}} = 1-\frac{V_c}{\varepsilon} $$
+    Take the natural log of both sides.
+    $$ -\frac{t}{\tau} = ln\left( 1-\frac{V_c}{\varepsilon}  \right) $$
+
+    We can call the expression $ln(1-\frac{V_C}{\varepsilon})$ our y, and t our x in a linearized equation, to be able to find the time constant, $\tau$, from our plot of voltage and time.  
+
 	\subsection{Part III: Discharging the capacitor}
 	The time constant can be determined by selecting the value of voltage in which it is 37\% of the max voltage (emf). Then, at that point, the time is the time constant. $0.37 \times 4.0$V = $1.48$. The closest point to 1.48 in our graph is 1.461, in which the time is 120 seconds. This means the determined time constant from discharging is 120.
 	\subsection{Part IV: Connecting R and C in parallel}

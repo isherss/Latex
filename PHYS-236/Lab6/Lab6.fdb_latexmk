@@ -1,9 +1,5 @@
 # Fdb version 3
-<<<<<<< HEAD
-["pdflatex"] 1668053325 "Lab6.tex" "Lab6.pdf" "Lab6" 1668053326
-=======
-["pdflatex"] 1668053110 "Lab6.tex" "Lab6.pdf" "Lab6" 1668053111
->>>>>>> origin/ish-branch
+["pdflatex"] 1668054910 "Lab6.tex" "Lab6.pdf" "Lab6" 1668054911
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -244,24 +240,16 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1650183167 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
-<<<<<<< HEAD
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633517 4278762 af3ac1370db81a450c1118eabf1fe718 ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633500 2927661 bcfd463e5392e4077e3562e8360aac79 ""
-  "Lab6.aux" 1668053325 3467 4207cc917bee6d8b8235e16b6b86402d "pdflatex"
-  "Lab6.out" 1668053325 2572 03d0a01fd1348da0a2c131b56d91c99c "pdflatex"
-  "Lab6.tex" 1668053322 7113 af3ac6a5013d2af54d9fc894ed04c14e ""
-  "images/procedure/charging.png" 1668051916 16011 94d9516e3537548e16e990db479d210c ""
-  "images/theory/circuit.png" 1668051916 14213 65229f3f1963dfbf190479bbebe885cd ""
-=======
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1663005929 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1663005906 2927662 d12016735cce2e2535e24818eca1829b ""
-  "Lab6.aux" 1668053111 2932 52794bec314be5c20de66f8d3e4fca61 "pdflatex"
-  "Lab6.out" 1668053111 2985 231c8d4b59f66676eb1351e7f1c57170 "pdflatex"
-  "Lab6.tex" 1668053110 9149 e5b784041782002c76d5781f4458fa40 ""
-  "images//Voltage-Time-Linear.png" 1668047525 26678 9bd3da32afcd43d90c7af1c42c3e4a37 ""
-  "images//Voltage-Time.png" 1668047480 19329 51bd1824c08d846f70b1c6bbb2e7f70b ""
-  "images//help.png" 1668052012 31967 9403abd714de9853bf5353c44cdd57a3 ""
->>>>>>> origin/ish-branch
+  "Lab6.aux" 1668054911 3951 d448e3cf8864dcb06b5768a4fda033a1 "pdflatex"
+  "Lab6.out" 1668054911 4158 bd8cfbf6c71b720b671181ab0553307f "pdflatex"
+  "Lab6.tex" 1668054908 14016 db36d9dba52b2dd02a92fb5327d2f395 ""
+  "images//Voltage-Time-Linear.png" 1668053739 26678 9bd3da32afcd43d90c7af1c42c3e4a37 ""
+  "images//Voltage-Time.png" 1668053739 19329 51bd1824c08d846f70b1c6bbb2e7f70b ""
+  "images//help.png" 1668053739 31967 9403abd714de9853bf5353c44cdd57a3 ""
+  "images/procedure/charging.png" 1668053739 16011 94d9516e3537548e16e990db479d210c ""
+  "images/theory/circuit.png" 1668053739 14213 65229f3f1963dfbf190479bbebe885cd ""
   (generated)
   "Lab6.aux"
   "Lab6.log"
