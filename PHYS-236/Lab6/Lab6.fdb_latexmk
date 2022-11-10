@@ -1,5 +1,9 @@
 # Fdb version 3
+<<<<<<< HEAD
 ["pdflatex"] 1668053325 "Lab6.tex" "Lab6.pdf" "Lab6" 1668053326
+=======
+["pdflatex"] 1668053110 "Lab6.tex" "Lab6.pdf" "Lab6" 1668053111
+>>>>>>> origin/ish-branch
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -17,6 +21,9 @@
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ectt1200.tfm" 1650183167 1536 487c9b46984a816c7ed238d0674595c7 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1650183167 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1650183167 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1650183167 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1650183167 1332 f817c21a1ba54560425663374f1b651a ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1650183167 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1650183167 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1650183167 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1650183167 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -27,11 +34,13 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1650183167 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1650183167 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1650183167 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1650183167 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1650183167 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1650183167 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1650183167 37912 77d683123f92148345f3fc36a38d9ab1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1650183167 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1650183167 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1650183167 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1650183167 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1650183167 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1650183167 32716 08e384dc442464e7285e891af9f45947 ""
@@ -235,6 +244,7 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1650183167 56029 3f7889dab51d620aa43177c391b7b190 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1650183167 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
+<<<<<<< HEAD
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633517 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633500 2927661 bcfd463e5392e4077e3562e8360aac79 ""
   "Lab6.aux" 1668053325 3467 4207cc917bee6d8b8235e16b6b86402d "pdflatex"
@@ -242,6 +252,16 @@
   "Lab6.tex" 1668053322 7113 af3ac6a5013d2af54d9fc894ed04c14e ""
   "images/procedure/charging.png" 1668051916 16011 94d9516e3537548e16e990db479d210c ""
   "images/theory/circuit.png" 1668051916 14213 65229f3f1963dfbf190479bbebe885cd ""
+=======
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1663005929 4278762 af3ac1370db81a450c1118eabf1fe718 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1663005906 2927662 d12016735cce2e2535e24818eca1829b ""
+  "Lab6.aux" 1668053111 2932 52794bec314be5c20de66f8d3e4fca61 "pdflatex"
+  "Lab6.out" 1668053111 2985 231c8d4b59f66676eb1351e7f1c57170 "pdflatex"
+  "Lab6.tex" 1668053110 9149 e5b784041782002c76d5781f4458fa40 ""
+  "images//Voltage-Time-Linear.png" 1668047525 26678 9bd3da32afcd43d90c7af1c42c3e4a37 ""
+  "images//Voltage-Time.png" 1668047480 19329 51bd1824c08d846f70b1c6bbb2e7f70b ""
+  "images//help.png" 1668052012 31967 9403abd714de9853bf5353c44cdd57a3 ""
+>>>>>>> origin/ish-branch
   (generated)
   "Lab6.aux"
   "Lab6.log"

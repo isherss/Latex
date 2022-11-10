@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  9 NOV 2022 22:08
+=======
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.9.12)  9 NOV 2022 22:05
+>>>>>>> origin/ish-branch
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -785,6 +789,7 @@ File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<<<<<<< HEAD
 Overfull \hbox (29.41475pt too wide) in paragraph at lines 56--57
 \T1/cmr/m/n/10 Gaining familiarity with the behavior of capacitors while in both series and parallel with resistors. Understanding 
  []
@@ -797,12 +802,17 @@ Package pdftex.def Info: images/theory/circuit.png  used on input line 66.
 
 Overfull \hbox (5.08246pt too wide) in paragraph at lines 69--70
 []\T1/cmr/m/n/10 After the capacitor is charged, we can flip the circuit's switch to position \T1/cmr/m/it/10 b \T1/cmr/m/n/10 to begin the discharging process, 
+=======
+Overfull \hbox (3.3325pt too wide) in paragraph at lines 88--201
+$[]$ []  
+>>>>>>> origin/ish-branch
  []
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
+<<<<<<< HEAD
 l.96 ..._c}{\varepsilon}= 1-e^{-\frac{t}{\tau}} $$
                                                    [1 <./images/theory/circuit.png>]
 Overfull \hbox (15.45982pt too wide) in paragraph at lines 110--111
@@ -848,4 +858,56 @@ PDF statistics:
  180 compressed objects within 2 object streams
  37 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+l.201 			\begin{center}
+                        [1] [2]
+Overfull \vbox (424.15817pt too high) has occurred while \output is active []
+
+ [3]
+<./images//Voltage-Time.png, id=108, 745.78625pt x 435.6275pt>
+File: ./images//Voltage-Time.png Graphic file (type png)
+<use ./images//Voltage-Time.png>
+Package pdftex.def Info: ./images//Voltage-Time.png  used on input line 202.
+(pdftex.def)             Requested size: 422.77664pt x 246.94759pt.
+<./images//Voltage-Time-Linear.png, id=110, 769.87625pt x 425.59pt>
+File: ./images//Voltage-Time-Linear.png Graphic file (type png)
+<use ./images//Voltage-Time-Linear.png>
+Package pdftex.def Info: ./images//Voltage-Time-Linear.png  used on input line 205.
+(pdftex.def)             Requested size: 422.77664pt x 233.71805pt.
+ [4 <./images//Voltage-Time.png> <./images//Voltage-Time-Linear.png>]
+<./images//help.png, id=117, 822.07124pt x 618.31pt>
+File: ./images//help.png Graphic file (type png)
+<use ./images//help.png>
+Package pdftex.def Info: ./images//help.png  used on input line 262.
+(pdftex.def)             Requested size: 422.77664pt x 317.98506pt.
+ [5]
+Overfull \hbox (5.0457pt too wide) in paragraph at lines 278--279
+\T1/cmr/m/n/10 The time constant can be determined by selecting the value of voltage in which it is 37% of the max voltage 
+ []
+
+[6 <./images//help.png>]
+Overfull \hbox (0.17941pt too wide) in paragraph at lines 287--288
+\T1/cmr/bx/n/10 potential difference across each one is essentially connecting the multimeter to the same 
+ []
+
+[7] (./Lab6.aux)
+Package rerunfilecheck Info: File `Lab6.out' has not changed.
+(rerunfilecheck)             Checksum: 231C8D4B59F66676EB1351E7F1C57170;2985.
+ ) 
+Here is how much of TeX's memory you used:
+ 37949 strings out of 478238
+ 886980 string characters out of 5850456
+ 1319281 words of memory out of 5000000
+ 55582 multiletter control sequences out of 15000+600000
+ 482064 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,12n,91p,759b,830s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Lab6.pdf (8 pages, 296307 bytes).
+PDF statistics:
+ 217 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> origin/ish-branch
 
