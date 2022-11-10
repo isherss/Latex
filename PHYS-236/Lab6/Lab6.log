@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  9 NOV 2022 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  9 NOV 2022 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -792,30 +792,35 @@ Overfull \hbox (29.41475pt too wide) in paragraph at lines 56--57
 <images/theory/circuit.png, id=95, 389.455pt x 270.00874pt>
 File: images/theory/circuit.png Graphic file (type png)
 <use images/theory/circuit.png>
-Package pdftex.def Info: images/theory/circuit.png  used on input line 65.
+Package pdftex.def Info: images/theory/circuit.png  used on input line 66.
 (pdftex.def)             Requested size: 116.83739pt x 81.00323pt.
+
+Overfull \hbox (5.08246pt too wide) in paragraph at lines 69--70
+[]\T1/cmr/m/n/10 After the capacitor is charged, we can flip the circuit's switch to position \T1/cmr/m/it/10 b \T1/cmr/m/n/10 to begin the discharging process, 
+ []
+
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.101 ...nt of our RC circuit using the formula $$
-                                                  \tau = RC$$ and both the t... [1 <./images/theory/circuit.png>]
-Overfull \hbox (15.45982pt too wide) in paragraph at lines 101--102
+l.95 ...V_c}{\varepsilon}= 1-e^\frac{-t}{\tau}  $$
+                                                   [1 <./images/theory/circuit.png>]
+Overfull \hbox (15.45982pt too wide) in paragraph at lines 103--104
 \T1/cmr/m/n/10 and both the theoretical and measure values. We finally calculate the percentage error between our theoretical 
  []
 
 
-Overfull \hbox (3.76823pt too wide) in paragraph at lines 107--108
+Overfull \hbox (3.76823pt too wide) in paragraph at lines 109--110
 \T1/cmr/m/n/10 multimeter to the leads of the capacitor to get our readouts, we begin the experiment by flipping the switch 
  []
 
-<images/procedure/charging.png, id=122, 354.32375pt x 254.9525pt>
+<images/procedure/charging.png, id=120, 354.32375pt x 254.9525pt>
 File: images/procedure/charging.png Graphic file (type png)
 <use images/procedure/charging.png>
-Package pdftex.def Info: images/procedure/charging.png  used on input line 112.
+Package pdftex.def Info: images/procedure/charging.png  used on input line 114.
 (pdftex.def)             Requested size: 106.29794pt x 76.48633pt.
 [2 <./images/procedure/charging.png>]
-Overfull \hbox (0.17941pt too wide) in paragraph at lines 140--141
+Overfull \hbox (0.17941pt too wide) in paragraph at lines 143--144
 \T1/cmr/bx/n/10 potential difference across each one is essentially connecting the multimeter to the same 
  []
 
@@ -824,18 +829,18 @@ Package rerunfilecheck Info: File `Lab6.out' has not changed.
 (rerunfilecheck)             Checksum: 03D0A01FD1348DA0A2C131B56D91C99C;2572.
  ) 
 Here is how much of TeX's memory you used:
- 37947 strings out of 478238
- 886813 string characters out of 5850455
+ 37949 strings out of 478238
+ 886835 string characters out of 5850455
  1289281 words of memory out of 5000000
- 55574 multiletter control sequences out of 15000+600000
- 481823 words of font info for 54 fonts, out of 8000000 for 9000
+ 55575 multiletter control sequences out of 15000+600000
+ 482136 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,7n,91p,759b,858s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab6.pdf (4 pages, 256381 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Lab6.pdf (4 pages, 285218 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
+ 228 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
  37 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
