@@ -88,11 +88,18 @@ Date performed: 11/02/2022}
 
 
 
+
     \subsection{Linearization of the charging process}
     We start off with our previous equation for the voltage across our capacitor, and begin to manipulate the equation to acquire a more simplified version.
 
     $$V_c = \varepsilon \left( 1- e^{-\frac{t}{\tau}} \right)  | \div \varepsilon  $$
-    $$ \frac{V_c}{\varepsilon}= 1-e^\frac{-t}{\tau}  $$
+    $$ \frac{V_c}{\varepsilon}= 1-e^{-\frac{t}{\tau}} $$
+    $$ e^{-\frac{t}{\tau}} = 1-\frac{V_c}{\varepsilon} $$
+    Take the natural log of both sides.
+    $$ -\frac{t}{\tau} = ln\left( 1-\frac{V_c}{\varepsilon}  \right) $$
+
+    We can call the expression $ln(1-\frac{V_C}{\varepsilon})$ our y, and t our x in a linearized equation, to be able to find the time constant, $\tau$, from our plot of voltage and time.  
+
 
     
 

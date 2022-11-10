@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1668050409 "Lab6.tex" "Lab6.pdf" "Lab6" 1668050410
+["pdflatex"] 1668051760 "Lab6.tex" "Lab6.pdf" "Lab6" 1668051761
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1650183167 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm" 1650183167 3584 2d666ecf6d466d8b007246bc2f94d9da ""
@@ -237,9 +237,9 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1666633517 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1666633500 2927661 bcfd463e5392e4077e3562e8360aac79 ""
-  "Lab6.aux" 1668050410 3467 4207cc917bee6d8b8235e16b6b86402d "pdflatex"
-  "Lab6.out" 1668050410 2572 03d0a01fd1348da0a2c131b56d91c99c "pdflatex"
-  "Lab6.tex" 1668050406 6252 efad048159dc6e402a57c1cd06ea4977 ""
+  "Lab6.aux" 1668051761 3467 4207cc917bee6d8b8235e16b6b86402d "pdflatex"
+  "Lab6.out" 1668051761 2572 03d0a01fd1348da0a2c131b56d91c99c "pdflatex"
+  "Lab6.tex" 1668051760 6624 d9f85a760900ab58e9b11fccb8e4df93 ""
   "images/procedure/charging.png" 1668045520 16011 94d9516e3537548e16e990db479d210c ""
   "images/theory/circuit.png" 1668048561 14213 65229f3f1963dfbf190479bbebe885cd ""
   (generated)
