@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  9 NOV 2022 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.10.24)  9 NOV 2022 22:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -824,6 +824,11 @@ Overfull \hbox (0.17941pt too wide) in paragraph at lines 150--151
 \T1/cmr/bx/n/10 potential difference across each one is essentially connecting the multimeter to the same 
  []
 
+
+Overfull \hbox (2.01866pt too wide) in paragraph at lines 159--160
+\T1/cmr/m/n/10 process, and found the coefficient of that best fit graph. Overall, there were relatively low percentage errors 
+ []
+
 [3] (./Lab6.aux)
 Package rerunfilecheck Info: File `Lab6.out' has not changed.
 (rerunfilecheck)             Checksum: 03D0A01FD1348DA0A2C131B56D91C99C;2572.
@@ -837,7 +842,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  88i,7n,91p,759b,858s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on Lab6.pdf (4 pages, 287371 bytes).
+Output written on Lab6.pdf (4 pages, 288289 bytes).
 PDF statistics:
  228 PDF objects out of 1000 (max. 8388607)
  180 compressed objects within 2 object streams
